@@ -1,0 +1,23 @@
+{
+  "run_id": "run-20261002-170239-dtxn",
+  "phase": "exercise_selection_review",
+  "produced_by": "quality-reviewer",
+  "version": 2,
+  "status": "draft",
+  "created_at": "2026-10-02T18:10:00+00:00",
+  "payload": {
+    "phase_reviewed": "exercise_selection",
+    "phase_reviewed_version": 2,
+    "result": "pass",
+    "checks": [
+      {"name": "mechanical_validation", "passed": true, "detail": "validate_artifact.py returned pass with no errors."},
+      {"name": "equipment_constraint", "passed": true, "detail": "Checked every exercise_id against exercises.json: all equipment tags are subsets of [dumbbell, bodyweight]."},
+      {"name": "contraindication_knee_deep_flexion", "passed": true, "detail": "No exercise in any session carries knee_deep_flexion in exercises.json. bw_squat has no tags and is depth-limited by note; no lunges or split squats. RDL is tagged lower_back_loaded_flexion, which is not a stated constraint, and is covered by a form note."},
+      {"name": "time_budget", "passed": true, "detail": "Independent estimate (5 min warm-up, 40 s work per set, listed rest, 30 s transition per exercise): day1 ~35 min, day2 ~34 min, day3 ~23 min strength-plus-warm-up plus ~12-13 min circuit, ~35-36 min. Matches the 35-min architecture targets and fits within the confirmed 40 min. The estimates in safety_notes are honest."},
+      {"name": "pull_redundancy_bench_claim", "passed": true, "detail": "Verified in exercises.json: db_single_arm_row and db_chest_supported_row have equipment [dumbbell, bench]; requirements.equipment is [dumbbell, bodyweight], so they are not usable. db_renegade_row is difficulty advanced with wrist_loaded_extension, unsuitable for a beginner. Other pull options need a pull-up bar, cable, barbell, kettlebell or band. db_row is the only valid pull option; the corrected safety note is accurate. Repeating it across three sessions is a justified catalogue limitation, varied by rep range and tempo."},
+      {"name": "movement_pattern_coverage_and_balance", "passed": true, "detail": "Push 10 sets/week, pull 9, hinge 11, shallow squat 8, core 7 plus carry 3. Every session has push, pull, lower body and core. Balance issue from v1 is resolved."},
+      {"name": "weekly_volume_vs_research", "passed": true, "detail": "Knee-safe squat-pattern volume rose from 4 to 8 sets/week, with hinge and glute work at 11. This is in the research 8-12 range for the knee-safe patterns."}
+    ],
+    "failure_reasons": []
+  }
+}

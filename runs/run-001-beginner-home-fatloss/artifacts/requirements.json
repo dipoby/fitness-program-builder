@@ -1,0 +1,18 @@
+{
+  "run_id": "run-001-beginner-home-fatloss",
+  "phase": "requirements",
+  "produced_by": "requirements-analyst",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-01-15T14:31:02+00:00",
+  "payload": {
+    "goal": "fat_loss",
+    "experience_level": "beginner",
+    "equipment": ["bodyweight", "dumbbell"],
+    "days_per_week": 3,
+    "session_length_minutes": 40,
+    "constraints": [],
+    "notes": "User explicitly confirmed no injuries or movement limitations.",
+    "confirmed": true
+  }
+}

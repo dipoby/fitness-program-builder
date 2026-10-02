@@ -1,0 +1,20 @@
+{
+  "run_id": "run-002-intermediate-gym-strength-injury",
+  "phase": "progression_plan_review",
+  "produced_by": "quality-reviewer",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-02-03T09:17:00+00:00",
+  "payload": {
+    "phase_reviewed": "progression_plan",
+    "phase_reviewed_version": 1,
+    "result": "pass",
+    "checks": [
+      {"name": "schema_validation", "passed": true},
+      {"name": "all_exercise_ids_exist_in_exercise_selection", "passed": true, "detail": "Checked against exercise_selection.json version 2 (the corrected version) -- db_landmine_press is referenced correctly, not the removed bb_overhead_press."},
+      {"name": "progression_actually_progresses", "passed": true, "detail": "Intensity ramps RPE 7 -> 9 across weeks 1-10 with a real week-6 volume cut."},
+      {"name": "no_absolute_loads_prescribed", "passed": true, "detail": "Load guidance stays qualitative/relative, appropriate since the system has no record of the user's actual working weights."}
+    ],
+    "failure_reasons": []
+  }
+}

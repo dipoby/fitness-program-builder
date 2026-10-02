@@ -1,0 +1,21 @@
+{
+  "run_id": "run-003-advanced-interrupt-resume",
+  "phase": "exercise_selection_review",
+  "produced_by": "quality-reviewer",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-03-18T08:05:30+00:00",
+  "payload": {
+    "phase_reviewed": "exercise_selection",
+    "phase_reviewed_version": 1,
+    "result": "pass",
+    "checks": [
+      {"name": "schema_validation", "passed": true},
+      {"name": "equipment_subset_of_requirements", "passed": true},
+      {"name": "no_contraindicated_exercise", "passed": true, "detail": "No constraints were confirmed, so vacuously satisfied."},
+      {"name": "exercise_variety", "passed": true, "detail": "Day 4 correctly uses different push/pull variations (incline push-up, band row) than Days 1/2 (push-up/pike push-up, pull-up/kettlebell row) -- no repeated exercise anywhere across the week, unlike runs 001/002 where limited equipment forced some repeats."},
+      {"name": "session_volume_realistic_for_target_minutes", "passed": true}
+    ],
+    "failure_reasons": []
+  }
+}

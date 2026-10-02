@@ -1,0 +1,19 @@
+{
+  "run_id": "run-001-beginner-home-fatloss",
+  "phase": "research_review",
+  "produced_by": "quality-reviewer",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-01-15T14:32:50+00:00",
+  "payload": {
+    "phase_reviewed": "research",
+    "phase_reviewed_version": 1,
+    "result": "pass",
+    "checks": [
+      {"name": "schema_validation", "passed": true},
+      {"name": "sources_present_and_non_fabricated_format", "passed": true, "detail": "All 3 findings cite a named publication rather than an unverifiable bare claim."},
+      {"name": "relevance_to_confirmed_goal_and_experience", "passed": true, "detail": "Findings directly address fat-loss rep ranges, beginner frequency, and beginner progression -- matches requirements.json."}
+    ],
+    "failure_reasons": []
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "run_id": "run-003-advanced-interrupt-resume",
+  "status": "completed",
+  "created_at": "2026-10-02T14:10:15.191945+00:00",
+  "updated_at": "2026-10-02T14:14:10.253302+00:00",
+  "input_summary": "Advanced trainee, home setup with kettlebell, resistance bands, pull-up bar, and bodyweight only (no barbell/dumbbell/bench). 5 days/week, 50 min/session, goal is muscle gain. No injuries.",
+  "phases": {
+    "requirements": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/requirements.json",
+      "last_failure": null
+    },
+    "research": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/research.json",
+      "last_failure": null
+    },
+    "architecture": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/architecture.json",
+      "last_failure": null
+    },
+    "exercise_selection": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/exercise_selection.json",
+      "last_failure": null
+    },
+    "progression_plan": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/progression_plan.json",
+      "last_failure": null
+    },
+    "final_draft": {
+      "status": "completed",
+      "attempts": 2,
+      "max_attempts": 3,
+      "artifact": "artifacts/final_draft.json",
+      "last_failure": null
+    }
+  },
+  "human_approval": {
+    "status": "approved",
+    "token": "10d6336794ef9436c7eefe4efd4a8cca6316f819711288febd9b050d6fa0f815",
+    "token_approved_at": "2026-10-02T14:14:10.200069+00:00",
+    "token_source_phase_version": 2,
+    "feedback_history": [
+      {
+        "ts": "2026-10-02T14:13:22.286919+00:00",
+        "feedback": "Please add a short warm-up note specifically before kettlebell swings (easy to tweak your back swinging cold), and add the ~45 min session-time estimate to each day's heading in Session-by-Session Program, not just in the architecture notes."
+      }
+    ]
+  },
+  "log": [
+    {
+      "ts": "2026-10-02T14:10:15.191945+00:00",
+      "event": "run run-003-advanced-interrupt-resume initialized"
+    },
+    {
+      "ts": "2026-10-02T14:10:30.791489+00:00",
+      "event": "phase requirements -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T14:10:55.732540+00:00",
+      "event": "phase research -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T14:10:56.114846+00:00",
+      "event": "phase architecture -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T14:11:45.500650+00:00",
+      "event": "phase exercise_selection -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T14:12:09.307257+00:00",
+      "event": "phase progression_plan -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T14:12:52.748698+00:00",
+      "event": "phase final_draft -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T14:13:22.287005+00:00",
+      "event": "human approval rejected: \"Please add a short warm-up note specifically before kettlebell swings (easy to tweak your back swinging cold), and add the ~45 min session-time estimate to each day's heading in Session-by-Session Program, not just in the architecture notes.\""
+    },
+    {
+      "ts": "2026-10-02T14:13:39.179831+00:00",
+      "event": "phase final_draft -> completed (attempt 2)"
+    },
+    {
+      "ts": "2026-10-02T14:14:10.245446+00:00",
+      "event": "human approval granted for final_draft version 2"
+    }
+  ]
+}

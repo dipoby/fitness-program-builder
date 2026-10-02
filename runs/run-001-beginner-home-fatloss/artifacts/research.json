@@ -1,0 +1,42 @@
+{
+  "run_id": "run-001-beginner-home-fatloss",
+  "phase": "research",
+  "produced_by": "research-agent",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-01-15T14:32:10+00:00",
+  "payload": {
+    "query_topics": [
+      "resistance training rep ranges for fat loss while preserving muscle, beginner",
+      "full body training frequency for beginners training 3 days per week",
+      "progression model for untrained beginners minimal equipment"
+    ],
+    "findings": [
+      {
+        "topic": "Rep ranges for fat loss / muscle retention",
+        "summary": "For a fat-loss goal where retaining muscle matters, moderate-rep resistance training (roughly 8-15 reps per set, 2-4 sets per exercise) combined with a modest calorie deficit is well supported for preserving lean mass better than cardio-only approaches. Total weekly volume per muscle group matters more than any single 'magic' rep number.",
+        "source": "ACSM Position Stand: Progression Models in Resistance Training for Healthy Adults (summary)",
+        "retrieved_at": "2026-01-15T14:32:05+00:00"
+      },
+      {
+        "topic": "Training frequency for beginners",
+        "summary": "Beginners generally respond well to full-body sessions 2-4x/week, since each muscle group gets hit multiple times weekly, which accelerates early skill and strength gains compared to body-part splits.",
+        "source": "NSCA Essentials of Strength Training and Conditioning, 4th ed. (chapter summary)",
+        "retrieved_at": "2026-01-15T14:32:40+00:00"
+      },
+      {
+        "topic": "Progression for untrained beginners with minimal equipment",
+        "summary": "Linear or double-progression (increase reps within a target range before increasing load/difficulty) works well for beginners and doesn't require heavy equipment — bodyweight and light-to-moderate dumbbell work is sufficient to drive meaningful early adaptation.",
+        "source": "NSCA Essentials of Strength Training and Conditioning, 4th ed. (chapter summary)",
+        "retrieved_at": "2026-01-15T14:33:12+00:00"
+      }
+    ],
+    "exercise_db_lookups": [
+      {
+        "tool": "list_equipment_categories",
+        "args": {},
+        "result_summary": "Confirmed 'bodyweight' and 'dumbbell' are both valid canonical equipment tags in the catalogue."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "run_id": "run-20261002-170239-dtxn",
+  "status": "completed",
+  "created_at": "2026-10-02T15:03:17.714050+00:00",
+  "updated_at": "2026-10-02T15:20:44.347739+00:00",
+  "input_summary": "I'm a beginner, I only have dumbbells and bodyweight at home, 3 days a week, 40 minutes a session, goal is fat loss.",
+  "phases": {
+    "requirements": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/requirements.json",
+      "last_failure": null
+    },
+    "research": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/research.json",
+      "last_failure": null
+    },
+    "architecture": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/architecture.json",
+      "last_failure": null
+    },
+    "exercise_selection": {
+      "status": "completed",
+      "attempts": 2,
+      "max_attempts": 3,
+      "artifact": "artifacts/exercise_selection.json",
+      "last_failure": null
+    },
+    "progression_plan": {
+      "status": "completed",
+      "attempts": 3,
+      "max_attempts": 3,
+      "artifact": "artifacts/progression_plan.json",
+      "last_failure": null
+    },
+    "final_draft": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/final_draft.json",
+      "last_failure": null
+    }
+  },
+  "human_approval": {
+    "status": "approved",
+    "token": "87b875ec877fe056463dd3ec7bff5512a90e5ac5d8d2c1e90fba0c53641ea1c9",
+    "token_approved_at": "2026-10-02T15:20:44.344642+00:00",
+    "token_source_phase_version": 1,
+    "feedback_history": []
+  },
+  "log": [
+    {
+      "ts": "2026-10-02T15:03:17.714050+00:00",
+      "event": "run run-20261002-170239-dtxn initialized"
+    },
+    {
+      "ts": "2026-10-02T15:06:39.307915+00:00",
+      "event": "phase requirements -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T15:07:34.149759+00:00",
+      "event": "phase architecture -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T15:07:53.158020+00:00",
+      "event": "phase research -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T15:08:57.247326+00:00",
+      "event": "phase exercise_selection -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T15:10:51.796583+00:00",
+      "event": "phase exercise_selection -> completed (attempt 2)"
+    },
+    {
+      "ts": "2026-10-02T15:12:06.456315+00:00",
+      "event": "phase progression_plan -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T15:13:34.210122+00:00",
+      "event": "phase progression_plan -> completed (attempt 2)"
+    },
+    {
+      "ts": "2026-10-02T15:15:21.034690+00:00",
+      "event": "phase progression_plan -> completed (attempt 3)"
+    },
+    {
+      "ts": "2026-10-02T15:17:56.627848+00:00",
+      "event": "phase final_draft -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T15:20:44.347739+00:00",
+      "event": "human approval granted for final_draft version 1"
+    }
+  ]
+}

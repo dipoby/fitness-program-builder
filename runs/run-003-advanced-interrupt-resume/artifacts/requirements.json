@@ -1,0 +1,18 @@
+{
+  "run_id": "run-003-advanced-interrupt-resume",
+  "phase": "requirements",
+  "produced_by": "requirements-analyst",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-03-10T07:00:00+00:00",
+  "payload": {
+    "goal": "muscle_gain",
+    "experience_level": "advanced",
+    "equipment": ["bodyweight", "kettlebell", "resistance-band", "pull-up-bar"],
+    "days_per_week": 5,
+    "session_length_minutes": 50,
+    "constraints": [],
+    "notes": "User confirmed no injuries or limitations. Home setup only, no barbell/dumbbell/bench.",
+    "confirmed": true
+  }
+}

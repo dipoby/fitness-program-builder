@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "final_program.schema.json",
+  "title": "final draft / final program artifact",
+  "type": "object",
+  "required": ["run_id", "phase", "produced_by", "version", "status", "created_at", "payload"],
+  "properties": {
+    "run_id": {"type": "string", "minLength": 1},
+    "phase": {"const": "final_draft"},
+    "produced_by": {"type": "string"},
+    "version": {"type": "integer", "minimum": 1},
+    "status": {"enum": ["draft", "validated", "failed"]},
+    "created_at": {"type": "string", "format": "date-time"},
+    "payload": {
+      "type": "object",
+      "required": [
+        "title", "summary", "requirements_recap", "weekly_schedule",
+        "safety_notes", "equipment_list", "sections_order"
+      ],
+      "properties": {
+        "title": {"type": "string"},
+        "summary": {"type": "string"},
+        "requirements_recap": {"type": "object"},
+        "weekly_schedule": {"type": "array"},
+        "safety_notes": {"type": "array", "items": {"type": "string"}},
+        "equipment_list": {"type": "array", "items": {"type": "string"}},
+        "sections_order": {
+          "type": "array",
+          "description": "Fixed document structure — must match this exact order every run so output is comparably structured.",
+          "const": [
+            "Summary",
+            "Confirmed Requirements",
+            "Weekly Schedule Overview",
+            "Session-by-Session Program",
+            "Progression Plan",
+            "Equipment & Substitutions",
+            "Safety Notes",
+            "Sources"
+          ]
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": false
+}

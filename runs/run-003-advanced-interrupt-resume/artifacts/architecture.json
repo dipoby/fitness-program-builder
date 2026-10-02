@@ -1,0 +1,21 @@
+{
+  "run_id": "run-003-advanced-interrupt-resume",
+  "phase": "architecture",
+  "produced_by": "program-architect",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-03-10T07:01:25+00:00",
+  "payload": {
+    "split_type": "push_pull_legs_upper_lower",
+    "weeks_total": 12,
+    "sessions": [
+      {"session_id": "day1", "day_label": "Day 1 — Push", "focus": "Push + Core", "target_minutes": 45, "movement_patterns": ["push", "core"]},
+      {"session_id": "day2", "day_label": "Day 2 — Pull", "focus": "Pull + Core", "target_minutes": 45, "movement_patterns": ["pull", "core"]},
+      {"session_id": "day3", "day_label": "Day 3 — Legs", "focus": "Squat + Hinge + Accessory", "target_minutes": 45, "movement_patterns": ["squat", "hinge", "accessory"]},
+      {"session_id": "day4", "day_label": "Day 4 — Upper", "focus": "Push + Pull (different variations than Day 1/2)", "target_minutes": 45, "movement_patterns": ["push", "pull"]},
+      {"session_id": "day5", "day_label": "Day 5 — Lower", "focus": "Squat + Hinge + Carry", "target_minutes": 45, "movement_patterns": ["squat", "hinge", "carry"]}
+    ],
+    "periodization_notes": "A 5-day push/pull/legs + upper/lower rotation gives each movement pattern 2x/week frequency while using distinct exercise variations on the repeat day (Day 4) to manage the limited-equipment progression challenge noted in research.json. Volume builds weeks 1-8, a deload lands at week 9, then weeks 10-12 push to a final peak.",
+    "research_citations": []
+  }
+}

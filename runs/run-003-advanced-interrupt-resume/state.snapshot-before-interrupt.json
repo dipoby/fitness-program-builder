@@ -1,0 +1,76 @@
+{
+  "run_id": "run-003-advanced-interrupt-resume",
+  "status": "running",
+  "created_at": "2026-10-02T14:10:15.191945+00:00",
+  "updated_at": "2026-10-02T14:10:56.122897+00:00",
+  "input_summary": "Advanced trainee, home setup with kettlebell, resistance bands, pull-up bar, and bodyweight only (no barbell/dumbbell/bench). 5 days/week, 50 min/session, goal is muscle gain. No injuries.",
+  "phases": {
+    "requirements": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/requirements.json",
+      "last_failure": null
+    },
+    "research": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/research.json",
+      "last_failure": null
+    },
+    "architecture": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/architecture.json",
+      "last_failure": null
+    },
+    "exercise_selection": {
+      "status": "pending",
+      "attempts": 0,
+      "max_attempts": 3,
+      "artifact": null,
+      "last_failure": null
+    },
+    "progression_plan": {
+      "status": "pending",
+      "attempts": 0,
+      "max_attempts": 3,
+      "artifact": null,
+      "last_failure": null
+    },
+    "final_draft": {
+      "status": "pending",
+      "attempts": 0,
+      "max_attempts": 3,
+      "artifact": null,
+      "last_failure": null
+    }
+  },
+  "human_approval": {
+    "status": "pending",
+    "token": null,
+    "token_source_phase_version": null,
+    "approved_at": null,
+    "feedback_history": []
+  },
+  "log": [
+    {
+      "ts": "2026-10-02T14:10:15.191945+00:00",
+      "event": "run run-003-advanced-interrupt-resume initialized"
+    },
+    {
+      "ts": "2026-10-02T14:10:30.791489+00:00",
+      "event": "phase requirements -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T14:10:55.732540+00:00",
+      "event": "phase research -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T14:10:56.114846+00:00",
+      "event": "phase architecture -> completed (attempt 1)"
+    }
+  ]
+}

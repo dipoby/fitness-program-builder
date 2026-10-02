@@ -1,0 +1,41 @@
+{
+  "run_id": "run-001-beginner-home-fatloss",
+  "phase": "final_draft",
+  "produced_by": "synthesizer",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-01-15T14:38:20+00:00",
+  "payload": {
+    "title": "8-Week Beginner Full-Body Fat-Loss Program (Bodyweight + Dumbbell)",
+    "summary": "A 3-day/week, 8-week full-body program for a true beginner training at home with just dumbbells and bodyweight, designed to support fat loss while preserving muscle through moderate-rep resistance training. Includes a week-6 deload.",
+    "requirements_recap": {
+      "goal": "fat_loss",
+      "experience_level": "beginner",
+      "equipment": ["bodyweight", "dumbbell"],
+      "days_per_week": 3,
+      "session_length_minutes": 40,
+      "constraints": []
+    },
+    "weekly_schedule": [
+      {"session_id": "day1", "day_label": "Day 1 — Full Body A", "focus": "Squat + Push + Pull + Core"},
+      {"session_id": "day2", "day_label": "Day 2 — Full Body B", "focus": "Hinge + Push + Core + Accessory"},
+      {"session_id": "day3", "day_label": "Day 3 — Full Body C", "focus": "Squat + Pull + Hinge + Core"}
+    ],
+    "safety_notes": [
+      "No injuries were confirmed, but all exercises are low technical-complexity and appropriate for a true beginner.",
+      "Stop a set short of the target reps if form breaks down; form takes priority over hitting a number.",
+      "Deload in week 6 is intentional — resist the urge to push through it at full intensity."
+    ],
+    "equipment_list": ["bodyweight", "dumbbell"],
+    "sections_order": [
+      "Summary",
+      "Confirmed Requirements",
+      "Weekly Schedule Overview",
+      "Session-by-Session Program",
+      "Progression Plan",
+      "Equipment & Substitutions",
+      "Safety Notes",
+      "Sources"
+    ]
+  }
+}

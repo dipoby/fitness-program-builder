@@ -1,0 +1,63 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "progression_plan.schema.json",
+  "title": "progression plan artifact",
+  "type": "object",
+  "required": ["run_id", "phase", "produced_by", "version", "status", "created_at", "payload"],
+  "properties": {
+    "run_id": {"type": "string", "minLength": 1},
+    "phase": {"const": "progression_plan"},
+    "produced_by": {"type": "string"},
+    "version": {"type": "integer", "minimum": 1},
+    "status": {"enum": ["draft", "validated", "failed"]},
+    "created_at": {"type": "string", "format": "date-time"},
+    "payload": {
+      "type": "object",
+      "required": ["weeks", "progression_strategy"],
+      "properties": {
+        "weeks": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["week_number", "sessions"],
+            "properties": {
+              "week_number": {"type": "integer", "minimum": 1},
+              "is_deload": {"type": "boolean"},
+              "sessions": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "type": "object",
+                  "required": ["session_id", "exercises"],
+                  "properties": {
+                    "session_id": {"type": "string"},
+                    "exercises": {
+                      "type": "array",
+                      "minItems": 1,
+                      "items": {
+                        "type": "object",
+                        "required": ["exercise_id", "sets", "reps", "load_guidance", "intensity"],
+                        "properties": {
+                          "exercise_id": {"type": "string"},
+                          "sets": {"type": "integer", "minimum": 1, "maximum": 10},
+                          "reps": {"type": "string"},
+                          "load_guidance": {"type": "string"},
+                          "intensity": {"type": "string"}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "progression_strategy": {"type": "string"},
+        "deload_weeks": {"type": "array", "items": {"type": "integer"}}
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": false
+}

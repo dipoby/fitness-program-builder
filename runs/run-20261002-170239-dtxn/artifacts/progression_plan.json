@@ -1,0 +1,1297 @@
+{
+  "run_id": "run-20261002-170239-dtxn",
+  "phase": "progression_plan",
+  "produced_by": "progression-planner",
+  "version": 3,
+  "status": "draft",
+  "created_at": "2026-10-02T19:00:00+00:00",
+  "payload": {
+    "progression_strategy": "Double progression within each exercise's rep range (per research.json finding for beginner fat-loss training: moderate rep ranges, 1-3 RIR, dumbbell loads capped around 20 kg). Week 1 starts one set lighter on 3-set exercises, weeks 2-7 run the prescribed sets while RIR tightens from 3 to 1-2, and week 8 is a lighter consolidation/deload. Once rep-range tops are reached, add load in small steps, or, when dumbbells cap out, add tempo, pauses, or shorter rest. Knee flexion stays shallow-to-moderate throughout. If you feel unusually fatigued or sore around weeks 4-5, take an easier week (drop to 2 sets per exercise at about 3 RIR) before continuing.",
+    "deload_weeks": [
+      8
+    ],
+    "weeks": [
+      {
+        "week_number": 1,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 2,
+                "reps": "8-12",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 2,
+                "reps": "10-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 2,
+                "reps": "10-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 2,
+                "reps": "8-12",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 2,
+                "reps": "8-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 2,
+                "reps": "20-40 sec",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions; stay at the shorter end in weeks 1-2. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_row",
+                "sets": 2,
+                "reps": "10-15 (slow 3-sec lowering)",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 2,
+                "reps": "6-12",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 2,
+                "reps": "8-12 per leg",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 2,
+                "reps": "10-15 (shallow, box-limited)",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "db_farmers_carry",
+                "sets": 2,
+                "reps": "30-40 sec",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions; stay at the shorter end in weeks 1-2. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_side_plank",
+                "sets": 2,
+                "reps": "15-30 sec per side",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions; stay at the shorter end in weeks 1-2. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 2,
+                "reps": "10-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_glute_bridge",
+                "sets": 2,
+                "reps": "15 reps / 35 sec, circuit round",
+                "load_guidance": "Bodyweight: progress by adding reps within the time window of each set, then slow the lowering (3 sec) or add a 1-2 sec pause at the top or hardest point, only moving to a harder variation when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 2,
+                "reps": "30 sec, circuit round",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions; stay at the shorter end in weeks 1-2. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 2,
+                "reps": "12-15 / 35 sec, circuit round",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 2,
+                "reps": "15-20 / 35 sec, circuit round",
+                "load_guidance": "Bodyweight: progress by adding reps within the time window of each set, then slow the lowering (3 sec) or add a 1-2 sec pause at the top or hardest point, only moving to a harder variation when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 2,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 2,
+                "reps": "8-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 2,
+                "reps": "20-40 sec",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions; stay at the shorter end in weeks 1-2. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-15 (slow 3-sec lowering)",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 3,
+                "reps": "6-12",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "8-12 per leg",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 2,
+                "reps": "10-15 (shallow, box-limited)",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "db_farmers_carry",
+                "sets": 3,
+                "reps": "30-40 sec",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions; stay at the shorter end in weeks 1-2. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_side_plank",
+                "sets": 2,
+                "reps": "15-30 sec per side",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions; stay at the shorter end in weeks 1-2. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 2,
+                "reps": "10-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "12-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 3,
+                "reps": "12-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_glute_bridge",
+                "sets": 3,
+                "reps": "15 reps / 35 sec, circuit round",
+                "load_guidance": "Bodyweight: progress by adding reps within the time window of each set, then slow the lowering (3 sec) or add a 1-2 sec pause at the top or hardest point, only moving to a harder variation when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30 sec, circuit round",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions; stay at the shorter end in weeks 1-2. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "12-15 / 35 sec, circuit round",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 3,
+                "reps": "15-20 / 35 sec, circuit round",
+                "load_guidance": "Bodyweight: progress by adding reps within the time window of each set, then slow the lowering (3 sec) or add a 1-2 sec pause at the top or hardest point, only moving to a harder variation when form stays clean. Weeks 1-2: learn the movement and stay at the lower end of the range.",
+                "intensity": "3 RIR (about 3 reps left)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 3,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 2,
+                "reps": "8-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean.",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 2,
+                "reps": "20-40 sec",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "2-3 RIR"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-15 (slow 3-sec lowering)",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 3,
+                "reps": "6-12",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean.",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "8-12 per leg",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean.",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 2,
+                "reps": "10-15 (shallow, box-limited)",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "db_farmers_carry",
+                "sets": 3,
+                "reps": "30-40 sec",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "bw_side_plank",
+                "sets": 2,
+                "reps": "15-30 sec per side",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "2-3 RIR"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 2,
+                "reps": "10-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "12-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 3,
+                "reps": "12-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "bw_glute_bridge",
+                "sets": 3,
+                "reps": "15 reps / 35 sec, circuit round",
+                "load_guidance": "Bodyweight: progress by adding reps within the time window of each set, then slow the lowering (3 sec) or add a 1-2 sec pause at the top or hardest point, only moving to a harder variation when form stays clean.",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30 sec, circuit round",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "12-15 / 35 sec, circuit round",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2-3 RIR"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 3,
+                "reps": "15-20 / 35 sec, circuit round",
+                "load_guidance": "Bodyweight: progress by adding reps within the time window of each set, then slow the lowering (3 sec) or add a 1-2 sec pause at the top or hardest point, only moving to a harder variation when form stays clean.",
+                "intensity": "2-3 RIR"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 4,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 2,
+                "reps": "8-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 2,
+                "reps": "20-40 sec",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "2 RIR"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-15 (slow 3-sec lowering)",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 3,
+                "reps": "6-12",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "8-12 per leg",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 2,
+                "reps": "10-15 (shallow, box-limited)",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "db_farmers_carry",
+                "sets": 3,
+                "reps": "30-40 sec",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_side_plank",
+                "sets": 2,
+                "reps": "15-30 sec per side",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "2 RIR"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 2,
+                "reps": "10-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "12-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 3,
+                "reps": "12-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_glute_bridge",
+                "sets": 3,
+                "reps": "15 reps / 35 sec, circuit round",
+                "load_guidance": "Bodyweight: progress by adding reps within the time window of each set, then slow the lowering (3 sec) or add a 1-2 sec pause at the top or hardest point, only moving to a harder variation when form stays clean.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30 sec, circuit round",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "12-15 / 35 sec, circuit round",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 3,
+                "reps": "15-20 / 35 sec, circuit round",
+                "load_guidance": "Bodyweight: progress by adding reps within the time window of each set, then slow the lowering (3 sec) or add a 1-2 sec pause at the top or hardest point, only moving to a harder variation when form stays clean.",
+                "intensity": "2 RIR"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 5,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 2,
+                "reps": "8-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 2,
+                "reps": "20-40 sec",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "2 RIR"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-15 (slow 3-sec lowering)",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 3,
+                "reps": "6-12",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "8-12 per leg",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 2,
+                "reps": "10-15 (shallow, box-limited)",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "db_farmers_carry",
+                "sets": 3,
+                "reps": "30-40 sec",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_side_plank",
+                "sets": 2,
+                "reps": "15-30 sec per side",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "2 RIR"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 2,
+                "reps": "10-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "12-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 3,
+                "reps": "12-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_glute_bridge",
+                "sets": 3,
+                "reps": "15 reps / 35 sec, circuit round",
+                "load_guidance": "Bodyweight: progress by adding reps within the time window of each set, then slow the lowering (3 sec) or add a 1-2 sec pause at the top or hardest point, only moving to a harder variation when form stays clean.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30 sec, circuit round",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "12-15 / 35 sec, circuit round",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "2 RIR"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 3,
+                "reps": "15-20 / 35 sec, circuit round",
+                "load_guidance": "Bodyweight: progress by adding reps within the time window of each set, then slow the lowering (3 sec) or add a 1-2 sec pause at the top or hardest point, only moving to a harder variation when form stays clean.",
+                "intensity": "2 RIR"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 6,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 2,
+                "reps": "8-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean.",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 2,
+                "reps": "20-40 sec",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "1-2 RIR"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-15 (slow 3-sec lowering)",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 3,
+                "reps": "6-12",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean.",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "8-12 per leg",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean.",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 2,
+                "reps": "10-15 (shallow, box-limited)",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "db_farmers_carry",
+                "sets": 3,
+                "reps": "30-40 sec",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "bw_side_plank",
+                "sets": 2,
+                "reps": "15-30 sec per side",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "1-2 RIR"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 2,
+                "reps": "10-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "12-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 3,
+                "reps": "12-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "bw_glute_bridge",
+                "sets": 3,
+                "reps": "15 reps / 35 sec, circuit round",
+                "load_guidance": "Bodyweight: progress by adding reps within the time window of each set, then slow the lowering (3 sec) or add a 1-2 sec pause at the top or hardest point, only moving to a harder variation when form stays clean.",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30 sec, circuit round",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions.",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "12-15 / 35 sec, circuit round",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead).",
+                "intensity": "1-2 RIR"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 3,
+                "reps": "15-20 / 35 sec, circuit round",
+                "load_guidance": "Bodyweight: progress by adding reps within the time window of each set, then slow the lowering (3 sec) or add a 1-2 sec pause at the top or hardest point, only moving to a harder variation when form stays clean.",
+                "intensity": "1-2 RIR"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 7,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Week 7: use your best-earned load/reps; do not add load beyond one small step.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Week 7: use your best-earned load/reps; do not add load beyond one small step.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Week 7: use your best-earned reps; do not progress more than one small step (about 1-2 reps or one variation). Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Week 7: use your best-earned load/reps; do not add load beyond one small step.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 2,
+                "reps": "8-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Week 7: use your best-earned reps; do not progress more than one small step (about 1-2 reps or one variation).",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 2,
+                "reps": "20-40 sec",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions. Week 7: use your best-earned hold time; do not add more than about 5 seconds per set.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-15 (slow 3-sec lowering)",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Week 7: use your best-earned load/reps; do not add load beyond one small step.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 3,
+                "reps": "6-12",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Week 7: use your best-earned reps; do not progress more than one small step (about 1-2 reps or one variation).",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "8-12 per leg",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Week 7: use your best-earned reps; do not progress more than one small step (about 1-2 reps or one variation).",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 2,
+                "reps": "10-15 (shallow, box-limited)",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Week 7: use your best-earned reps; do not progress more than one small step (about 1-2 reps or one variation). Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "db_farmers_carry",
+                "sets": 3,
+                "reps": "30-40 sec",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions. Week 7: use your best-earned hold time; do not add more than about 5 seconds per set.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "bw_side_plank",
+                "sets": 2,
+                "reps": "15-30 sec per side",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions. Week 7: use your best-earned hold time; do not add more than about 5 seconds per set.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 2,
+                "reps": "10-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Week 7: use your best-earned load/reps; do not add load beyond one small step.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "12-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Week 7: use your best-earned load/reps; do not add load beyond one small step.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 3,
+                "reps": "12-15",
+                "load_guidance": "Bodyweight: progress by adding reps up to the top of the range, then slow the lowering (3 sec) or pause 1 sec at the hardest point, or move to a harder variation only when form stays clean. Week 7: use your best-earned reps; do not progress more than one small step (about 1-2 reps or one variation). Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Week 7: use your best-earned load/reps; do not add load beyond one small step.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "bw_glute_bridge",
+                "sets": 3,
+                "reps": "15 reps / 35 sec, circuit round",
+                "load_guidance": "Bodyweight: progress by adding reps within the time window of each set, then slow the lowering (3 sec) or add a 1-2 sec pause at the top or hardest point, only moving to a harder variation when form stays clean. Week 7: use your best-earned reps; do not progress more than one small step (about 1-2 reps or one variation).",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30 sec, circuit round",
+                "load_guidance": "Hold time: add about 5 seconds per set once you complete all sets with good form for 2 consecutive sessions. Week 7: use your best-earned hold time; do not add more than about 5 seconds per set.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "12-15 / 35 sec, circuit round",
+                "load_guidance": "Choose a dumbbell you can lift for the bottom of the rep range with the target RIR. Double progression: once you hit the top of the range on all sets for 2 consecutive sessions with good form, increase load ~2.5-5% (smallest jump available; dumbbells are capped at about 20 kg, so when the cap is reached add reps, slow the 3-sec lowering, or shorten rest instead). Week 7: use your best-earned load/reps; do not add load beyond one small step.",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 3,
+                "reps": "15-20 / 35 sec, circuit round",
+                "load_guidance": "Bodyweight: progress by adding reps within the time window of each set, then slow the lowering (3 sec) or add a 1-2 sec pause at the top or hardest point, only moving to a harder variation when form stays clean. Week 7: use your best-earned reps; do not progress more than one small step (about 1-2 reps or one variation).",
+                "intensity": "1-2 RIR (hardest week, never to failure)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 8,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 2,
+                "reps": "8-12",
+                "load_guidance": "Deload: use about 10-20% less load (a lighter dumbbell) or an easier pace and about 1 fewer set than week 7; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 2,
+                "reps": "10-15",
+                "load_guidance": "Deload: use about 10-20% less load (a lighter dumbbell) or an easier pace and about 1 fewer set than week 7; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 2,
+                "reps": "10-15",
+                "load_guidance": "Deload: use an easier pace, about 10-20% fewer reps, or an easier variation and about 1 fewer set than week 7; focus on smooth technique and recovery. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 2,
+                "reps": "8-12",
+                "load_guidance": "Deload: use about 10-20% less load (a lighter dumbbell) or an easier pace and about 1 fewer set than week 7; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 2,
+                "reps": "8-15",
+                "load_guidance": "Deload: keep the same 2 sets as week 7 but use an easier pace, about 10-20% fewer reps, or an easier variation; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 2,
+                "reps": "20-40 sec",
+                "load_guidance": "Deload: keep the same 2 sets as week 7 but use shorter hold time (about 10-20% less) or an easier variation (e.g. knees down); focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_row",
+                "sets": 2,
+                "reps": "10-15 (slow 3-sec lowering)",
+                "load_guidance": "Deload: use about 10-20% less load (a lighter dumbbell) or an easier pace and about 1 fewer set than week 7; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 2,
+                "reps": "6-12",
+                "load_guidance": "Deload: use an easier pace, about 10-20% fewer reps, or an easier variation and about 1 fewer set than week 7; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 2,
+                "reps": "8-12 per leg",
+                "load_guidance": "Deload: use an easier pace, about 10-20% fewer reps, or an easier variation and about 1 fewer set than week 7; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 2,
+                "reps": "10-15 (shallow, box-limited)",
+                "load_guidance": "Deload: keep the same 2 sets as week 7 but use an easier pace, about 10-20% fewer reps, or an easier variation; focus on smooth technique and recovery. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "db_farmers_carry",
+                "sets": 2,
+                "reps": "30-40 sec",
+                "load_guidance": "Deload: use shorter hold time (about 10-20% less) or lighter carry load and about 1 fewer set than week 7; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "bw_side_plank",
+                "sets": 2,
+                "reps": "15-30 sec per side",
+                "load_guidance": "Deload: keep the same 2 sets as week 7 but use shorter hold time (about 10-20% less) or an easier variation (e.g. knees down); focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 2,
+                "reps": "10-15",
+                "load_guidance": "Deload: keep the same 2 sets as week 7 but use about 10-20% less load (a lighter dumbbell) or an easier pace; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "Deload: use about 10-20% less load (a lighter dumbbell) or an easier pace and about 1 fewer set than week 7; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "bw_squat",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "Deload: use an easier pace, about 10-20% fewer reps, or an easier variation and about 1 fewer set than week 7; focus on smooth technique and recovery. Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "Deload: keep the same 2 sets as week 7 but use about 10-20% less load (a lighter dumbbell) or an easier pace; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "bw_glute_bridge",
+                "sets": 2,
+                "reps": "15 reps / 35 sec, circuit round",
+                "load_guidance": "Deload: use an easier pace, about 10-20% fewer reps, or an easier variation and about 1 fewer set than week 7; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 2,
+                "reps": "30 sec, circuit round",
+                "load_guidance": "Deload: use shorter hold time (about 10-20% less) or an easier variation (e.g. knees down) and about 1 fewer set than week 7; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 2,
+                "reps": "12-15 / 35 sec, circuit round",
+                "load_guidance": "Deload: use about 10-20% less load (a lighter dumbbell) or an easier pace and about 1 fewer set than week 7; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 2,
+                "reps": "15-20 / 35 sec, circuit round",
+                "load_guidance": "Deload: use an easier pace, about 10-20% fewer reps, or an easier variation and about 1 fewer set than week 7; focus on smooth technique and recovery.",
+                "intensity": "4 RIR (easy, about 60-70% of normal effort)"
+              }
+            ]
+          }
+        ],
+        "is_deload": true
+      }
+    ]
+  }
+}

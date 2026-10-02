@@ -1,0 +1,24 @@
+{
+  "run_id": "run-20261002-170239-dtxn",
+  "phase": "progression_plan_review",
+  "produced_by": "quality-reviewer",
+  "version": 3,
+  "status": "draft",
+  "created_at": "2026-10-02T19:20:00+00:00",
+  "payload": {
+    "phase_reviewed": "progression_plan",
+    "phase_reviewed_version": 3,
+    "result": "pass",
+    "checks": [
+      {"name": "mechanical_validation", "passed": true, "detail": "validate_artifact.py returned pass with no errors."},
+      {"name": "ids_sets_reps_match_selection_v2", "passed": true, "detail": "Programmatic check across 8 weeks x 3 sessions: exercise ids and order match exercise_selection v2; reps strings match exactly; sets match v2 in weeks 2-7 (weeks 1 and 8 are intentional ramp-in/deload)."},
+      {"name": "v2_timed_hold_issue_1_weeks1-2_wording", "passed": true, "detail": "Fixed. 'stay at the shorter end in weeks 1-2' now appears only in weeks 1-2 for bw_plank, db_farmers_carry, bw_side_plank; weeks 3-7 have only the hold-time progression sentence."},
+      {"name": "v2_timed_hold_issue_2_week7_wording", "passed": true, "detail": "Fixed. Week 7 holds say 'use your best-earned hold time; do not add more than about 5 seconds per set'."},
+      {"name": "v2_timed_hold_issue_3_week8_wording", "passed": true, "detail": "Fixed. Week 8 holds say shorter hold time (about 10-20% less), easier variation, or lighter carry load; no 'fewer reps' on holds. 'Keep the same 2 sets' vs 'about 1 fewer set' is accurate to week 7 set counts."},
+      {"name": "week7_week8_rep_exercise_wording", "passed": true, "detail": "Dumbbell exercises: week 7 'best-earned load/reps, no more than one small load step'; week 8 less load or easier pace. Bodyweight rep exercises: week 7 'best-earned reps, no more than 1-2 reps or one variation'; week 8 easier pace, 10-20% fewer reps, or easier variation. Accurate and sensible; circuit time-window exercises use reps-within-time wording."},
+      {"name": "knee_safety_notes_retained", "passed": true, "detail": "Every bw_squat entry in all 8 weeks (including week 7 and 8) retains 'Keep knee bend shallow-to-moderate (box-limited, pain-free); stop if knee pain appears.'"},
+      {"name": "exercise_type_wording_scan", "passed": true, "detail": "No hold wording on rep exercises and no rep/load wording on timed holds in any week. Progression is not flat (RIR tightens 3 to 1-2, double progression, week 8 deload) and is realistic for a beginner."}
+    ],
+    "failure_reasons": []
+  }
+}

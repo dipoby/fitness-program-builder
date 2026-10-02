@@ -1,0 +1,259 @@
+{
+  "run_id": "run-20261002-170239-dtxn",
+  "phase": "exercise_selection",
+  "produced_by": "exercise-selector",
+  "version": 2,
+  "status": "draft",
+  "created_at": "2026-10-02T18:00:00+00:00",
+  "payload": {
+    "sessions": [
+      {
+        "session_id": "day1",
+        "exercises": [
+          {
+            "exercise_id": "db_floor_press",
+            "name": "Dumbbell Floor Press",
+            "sets": 3,
+            "reps_range": "8-12",
+            "rest_seconds": 75,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "db_romanian_deadlift",
+            "name": "Dumbbell Romanian Deadlift",
+            "sets": 3,
+            "reps_range": "10-15",
+            "rest_seconds": 75,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_squat",
+            "name": "Bodyweight Squat",
+            "sets": 3,
+            "reps_range": "10-15",
+            "rest_seconds": 45,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "db_row",
+            "name": "Dumbbell Bent-Over Row",
+            "sets": 3,
+            "reps_range": "8-12",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_incline_pushup",
+            "name": "Incline Push-Up",
+            "sets": 2,
+            "reps_range": "8-15",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_plank",
+            "name": "Plank",
+            "sets": 2,
+            "reps_range": "20-40 sec",
+            "rest_seconds": 45,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          }
+        ]
+      },
+      {
+        "session_id": "day2",
+        "exercises": [
+          {
+            "exercise_id": "db_row",
+            "name": "Dumbbell Bent-Over Row",
+            "sets": 3,
+            "reps_range": "10-15 (slow 3-sec lowering)",
+            "rest_seconds": 75,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_pushup",
+            "name": "Push-Up",
+            "sets": 3,
+            "reps_range": "6-12",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_single_leg_glute_bridge",
+            "name": "Single-Leg Glute Bridge",
+            "sets": 3,
+            "reps_range": "8-12 per leg",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_squat",
+            "name": "Bodyweight Squat",
+            "sets": 2,
+            "reps_range": "10-15 (shallow, box-limited)",
+            "rest_seconds": 45,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "db_farmers_carry",
+            "name": "Dumbbell Farmer's Carry",
+            "sets": 3,
+            "reps_range": "30-40 sec",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_side_plank",
+            "name": "Side Plank",
+            "sets": 2,
+            "reps_range": "15-30 sec per side",
+            "rest_seconds": 30,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          }
+        ]
+      },
+      {
+        "session_id": "day3",
+        "exercises": [
+          {
+            "exercise_id": "db_floor_press",
+            "name": "Dumbbell Floor Press",
+            "sets": 2,
+            "reps_range": "10-15",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "db_row",
+            "name": "Dumbbell Bent-Over Row",
+            "sets": 3,
+            "reps_range": "12-15",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_squat",
+            "name": "Bodyweight Squat",
+            "sets": 3,
+            "reps_range": "12-15",
+            "rest_seconds": 45,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "db_romanian_deadlift",
+            "name": "Dumbbell Romanian Deadlift",
+            "sets": 2,
+            "reps_range": "12-15",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_glute_bridge",
+            "name": "Glute Bridge (circuit station 1)",
+            "sets": 3,
+            "reps_range": "15 reps / 35 sec, circuit round",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_plank",
+            "name": "Plank (circuit station 2)",
+            "sets": 3,
+            "reps_range": "30 sec, circuit round",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "db_biceps_curl",
+            "name": "Dumbbell Biceps Curl (circuit station 3)",
+            "sets": 3,
+            "reps_range": "12-15 / 35 sec, circuit round",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_calf_raise",
+            "name": "Standing Calf Raise (circuit station 4)",
+            "sets": 3,
+            "reps_range": "15-20 / 35 sec, circuit round",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          }
+        ]
+      }
+    ],
+    "equipment_used_overall": [
+      "dumbbell",
+      "bodyweight"
+    ],
+    "safety_notes": [
+      "All exercises were returned by exercise-db search_exercises with equipment=[dumbbell, bodyweight] and exclude_contraindications=[knee_deep_flexion]; none carry that tag.",
+      "Bodyweight Squat: limit depth to a pain-free shallow-to-moderate range (box or well above parallel); stop if knee pain recurs. No loaded squats or lunges programmed; Reverse Lunge was returned but deliberately not used.",
+      "Pull options: with equipment limited to dumbbell and bodyweight, the catalogue returns only db_row and db_renegade_row. db_single_arm_row and db_chest_supported_row exist but require a bench, which the trainee does not have (equipment=[dumbbell, bodyweight]), and get_equipment_alternatives returns no bench-free substitutes. db_renegade_row is advanced and loads the wrists, so it is not suitable for a beginner. db_row is therefore used in all three sessions (3 sets each, 9/week), varied by rep range and tempo (day1 8-12, day2 10-15 with slow lowering, day3 12-15). If a bench becomes available, swap db_single_arm_row into day2.",
+      "Dumbbell Bent-Over Row and Romanian Deadlift: neutral spine, hinge at the hips; reduce load if lower back fatigues.",
+      "Weekly volume (sets): push 10 (floor press 5, incline push-up 2, push-up 3); pull 9; hinge 11 (RDL 5, single-leg bridge 3, glute bridge 3); knee-safe squat pattern 8 (shallow bodyweight squat); core 7 plus carry 3.",
+      "Estimated session time including ~5 min warm-up (about 40 sec working time per set plus listed rest plus ~30 sec transition per exercise): day1 ~35 min, day2 ~35 min, day3 ~35 min (about 18 min strength block plus 3-round, 4-station circuit finish of about 12 min; circuit stations 35 sec work, 15 sec transition, 60 sec rest between rounds)."
+    ]
+  }
+}

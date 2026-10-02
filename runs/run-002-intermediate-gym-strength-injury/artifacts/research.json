@@ -1,0 +1,42 @@
+{
+  "run_id": "run-002-intermediate-gym-strength-injury",
+  "phase": "research",
+  "produced_by": "research-agent",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-02-03T09:11:30+00:00",
+  "payload": {
+    "query_topics": [
+      "strength training rep ranges and rest periods for intermediate lifters",
+      "shoulder impingement safe pressing alternatives avoid overhead press",
+      "upper lower split periodization for 4 days per week intermediate strength"
+    ],
+    "findings": [
+      {
+        "topic": "Rep ranges / rest for strength goal, intermediate lifter",
+        "summary": "For a primarily strength-oriented goal, intermediate lifters typically benefit from heavier loads in the ~3-6 rep range on main compound lifts with 2-3 minutes rest, supplemented by moderate-rep accessory work (8-12 reps) with shorter rest.",
+        "source": "NSCA Essentials of Strength Training and Conditioning, 4th ed. (periodization chapter summary)",
+        "retrieved_at": "2026-02-03T09:11:10+00:00"
+      },
+      {
+        "topic": "Shoulder impingement — pressing alternatives",
+        "summary": "For people with shoulder impingement symptoms, strict overhead barbell/dumbbell pressing is commonly cited as a provocative movement; landmine presses (angled, partial range) and flat/incline horizontal pressing are frequently recommended as better-tolerated substitutes while still training the same muscle groups.",
+        "source": "Physiopedia: Shoulder Impingement Syndrome — exercise considerations (summary)",
+        "retrieved_at": "2026-02-03T09:11:45+00:00"
+      },
+      {
+        "topic": "4-day upper/lower periodization for intermediate strength",
+        "summary": "An upper/lower split run twice per week (4 total sessions) is a well-supported structure at the intermediate stage, allowing higher per-session focus and recovery between repeats of the same muscle groups compared to full-body, while still hitting each pattern twice weekly.",
+        "source": "NSCA Essentials of Strength Training and Conditioning, 4th ed. (program design chapter summary)",
+        "retrieved_at": "2026-02-03T09:12:05+00:00"
+      }
+    ],
+    "exercise_db_lookups": [
+      {
+        "tool": "list_equipment_categories",
+        "args": {},
+        "result_summary": "Confirmed barbell, dumbbell, bench, squat-rack, and cable-machine are all valid canonical equipment tags."
+      }
+    ]
+  }
+}

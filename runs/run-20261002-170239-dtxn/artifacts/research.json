@@ -1,0 +1,63 @@
+{
+  "run_id": "run-20261002-170239-dtxn",
+  "phase": "research",
+  "produced_by": "research-agent",
+  "version": 1,
+  "status": "draft",
+  "created_at": "2026-10-02T17:20:00+00:00",
+  "payload": {
+    "query_topics": [
+      "beginner fat loss resistance training rep range and weekly set volume",
+      "knee pain precautions deep knee flexion squat alternatives",
+      "periodization and progression for beginner 3 day/week full body training",
+      "resistance training and aerobic activity during weight loss"
+    ],
+    "findings": [
+      {
+        "topic": "Rep range and set volume (beginner, fat loss)",
+        "summary": "Beginners get an effective dose from roughly 8-10 hard sets per muscle per week; a broader range is 10-20 sets. Rep ranges of about 4-25 are effective, with higher reps suited to beginners and fat loss. Train 0-2 reps from failure but avoid true failure as a beginner; shorter rests can add calorie burn. Suggested for this client: 2-3 sets of 8-15 reps per exercise, full body, about 8-12 sets per muscle group per week. Caveat: source is a secondary fitness-media summary, not a primary study.",
+        "source": "https://www.garagegymreviews.com/how-many-sets-per-muscle-group-per-week",
+        "retrieved_at": "2026-10-02T17:15:00+00:00"
+      },
+      {
+        "topic": "Frequency and progression guidance (ACSM position stand)",
+        "summary": "The updated ACSM resistance training position stand emphasizes that going from no resistance training to regular training is the biggest win, and that training all major muscle groups at least twice per week matters more than complex plans. Novices gain similar muscular fitness from single-set and multiple-set programs, so 2-3 sets is sufficient. Periodization benefits are mainly realized after about 6 months, so a simple scheme is appropriate. Secondary summaries were used; confirm details against the primary position stand if citing exactly.",
+        "source": "https://acsm.org/science-spotlight-acsm-releases-new-position-stand-on-resistance-training/",
+        "retrieved_at": "2026-10-02T17:16:00+00:00"
+      },
+      {
+        "topic": "Periodization: double progression for 3x/week beginner",
+        "summary": "Recommended: 3 full-body sessions per week (Tue/Thu/Sat) with double progression. Pick a rep range (e.g. 8-12 or 10-15), work at a load that leaves 1-3 reps in reserve, and when all sets reach the top of the range increase load (about 5%, or the smallest dumbbell jump) and drop back to the bottom of the range. Because adjustable dumbbells cap at about 20 kg, plan to progress via reps, tempo, shorter rest, and unilateral variations once load ceilings are reached. A simple 4-week block with an easier week 4 or a deload every 4-6 weeks is reasonable. 2-3 sets of 8-12 reps, at least 2 days per week is a realistic starting point.",
+        "source": "https://www.ideafit.com/progression-models-in-resistance-training-for-healthy-adults",
+        "retrieved_at": "2026-10-02T17:17:00+00:00"
+      },
+      {
+        "topic": "Knee precaution: deep flexion under load",
+        "summary": "Deep knee bends past about 90 degrees increase strain on cartilage and ligaments and raise patellofemoral joint load. Suggested alternatives: limited-range squats (to a box or parallel at most, pain-free), step-ups to a low step, wall sits, mini squats, and reverse lunges with shallow depth. Hinge at the hips and keep weight in the heels so glutes and hamstrings carry the load. Favor hip-dominant work (Romanian deadlift, glute bridge, hip thrust) and avoid deep squats, deep lunges, and full-range leg extensions or sissy squats under load. Stop any movement that reproduces pain. Sources are general-audience; recommend the client see a clinician if pain persists.",
+        "source": "https://welltech.com/content/worst-knee-exercise-with-safe-alternatives",
+        "retrieved_at": "2026-10-02T17:18:00+00:00"
+      },
+      {
+        "topic": "Fat loss: resistance training plus aerobic activity",
+        "summary": "ACSM's weight-loss position stand notes 150-250 min/week of moderate activity prevents weight gain but yields only modest weight loss alone, so larger loss relies on diet plus more activity. Resistance training helps preserve lean mass during weight loss. For this client, 3 strength sessions fit well, optionally with brisk walking or low-impact cardio on off days (knee-friendly options: walking, cycling, swimming); nutrition is the main driver of fat loss and is outside the scope of this program.",
+        "source": "https://www.ideafit.com/acsm-on-weight-loss",
+        "retrieved_at": "2026-10-02T17:19:00+00:00"
+      }
+    ],
+    "exercise_db_lookups": [
+      {
+        "tool": "list_equipment_categories",
+        "args": {},
+        "result_summary": "Tags: barbell, bench, bodyweight, cable-machine, dumbbell, kettlebell, pull-up-bar, resistance-band, squat-rack. Client has dumbbell and bodyweight only."
+      }
+    ],
+    "recommended_parameters": {
+      "rep_range": "8-15",
+      "sets_per_exercise": "2-3",
+      "weekly_sets_per_muscle": "8-12",
+      "intensity": "1-3 reps in reserve, no failure",
+      "rest_seconds": "45-90",
+      "progression_model": "double progression with deload every 4-6 weeks"
+    }
+  }
+}

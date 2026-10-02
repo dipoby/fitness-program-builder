@@ -1,0 +1,57 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "requirements.schema.json",
+  "title": "requirements artifact",
+  "type": "object",
+  "required": ["run_id", "phase", "produced_by", "version", "status", "created_at", "payload"],
+  "properties": {
+    "run_id": {"type": "string", "minLength": 1},
+    "phase": {"const": "requirements"},
+    "produced_by": {"type": "string"},
+    "version": {"type": "integer", "minimum": 1},
+    "status": {"enum": ["draft", "validated", "failed"]},
+    "created_at": {"type": "string", "format": "date-time"},
+    "payload": {
+      "type": "object",
+      "required": [
+        "goal", "experience_level", "equipment", "days_per_week",
+        "session_length_minutes", "constraints", "confirmed"
+      ],
+      "properties": {
+        "goal": {
+          "enum": ["fat_loss", "muscle_gain", "strength", "general_fitness", "endurance"]
+        },
+        "experience_level": {"enum": ["beginner", "intermediate", "advanced"]},
+        "equipment": {
+          "type": "array",
+          "items": {"type": "string"},
+          "minItems": 1
+        },
+        "days_per_week": {"type": "integer", "minimum": 1, "maximum": 7},
+        "session_length_minutes": {"type": "integer", "minimum": 10, "maximum": 180},
+        "constraints": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["type", "description"],
+            "properties": {
+              "type": {"enum": ["injury", "time", "access", "other"]},
+              "description": {"type": "string"},
+              "contraindication_tags": {
+                "type": "array",
+                "items": {"type": "string"}
+              }
+            }
+          }
+        },
+        "notes": {"type": "string"},
+        "confirmed": {
+          "const": true,
+          "description": "Must be true: requirements are only persisted after explicit user confirmation of the captured values."
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": false
+}

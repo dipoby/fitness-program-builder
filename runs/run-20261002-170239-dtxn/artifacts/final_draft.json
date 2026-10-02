@@ -1,0 +1,336 @@
+{
+  "run_id": "run-20261002-170239-dtxn",
+  "phase": "final_draft",
+  "produced_by": "synthesizer",
+  "version": 1,
+  "status": "draft",
+  "created_at": "2026-10-02T15:17:39+00:00",
+  "payload": {
+    "title": "8-Week Beginner Fat-Loss Full-Body Program (Dumbbell and Bodyweight, Knee-Friendly)",
+    "summary": "An 8-week, 3-day-per-week full-body program (Tuesday/Thursday/Saturday, about 35-40 minutes per session) for a beginner whose goal is fat loss, using only adjustable dumbbells (about 2-20 kg per hand) and bodyweight at home. All knee-dominant work is kept shallow-to-moderate because of pain with deep knee bending. Week 1 is a ramp-in at 2 sets per exercise, weeks 2-7 build volume and effort using double progression, and week 8 is a lighter deload. An optional easier week is available if you feel unusually fatigued around weeks 4-5.",
+    "requirements_recap": {
+      "goal": "fat_loss",
+      "experience_level": "beginner",
+      "equipment": [
+        "dumbbell",
+        "bodyweight"
+      ],
+      "days_per_week": 3,
+      "session_length_minutes": 40,
+      "schedule": "Tuesday/Thursday/Saturday",
+      "constraints": [
+        {
+          "type": "injury",
+          "description": "Pain with deep knee bending; avoid deep squats/lunges and deep knee flexion under load. Keep knee range of motion shallow-to-moderate. No other injuries.",
+          "contraindication_tags": [
+            "knee_deep_flexion"
+          ]
+        }
+      ],
+      "notes": "Home training. Adjustable dumbbells approx. 2-20 kg per hand. Schedule: Tuesday/Thursday/Saturday."
+    },
+    "weekly_schedule": [
+      {
+        "day": "Tuesday",
+        "session_id": "day1",
+        "label": "Day 1 (Tuesday) - Full Body A",
+        "focus": "Full body, push and hinge emphasis; shallow-range knee-dominant work only (knee-safe)",
+        "target_minutes": 35
+      },
+      {
+        "day": "Thursday",
+        "session_id": "day2",
+        "label": "Day 2 (Thursday) - Full Body B",
+        "focus": "Full body, pull and single-leg/hip emphasis; loaded carry for conditioning (knee-safe)",
+        "target_minutes": 35
+      },
+      {
+        "day": "Saturday",
+        "session_id": "day3",
+        "label": "Day 3 (Saturday) - Full Body C",
+        "focus": "Full body, balanced push/pull with higher-density circuit-style finish for energy expenditure",
+        "target_minutes": 35
+      }
+    ],
+    "safety_notes": [
+      "Knee precaution: you have pain with deep knee bending. Keep knee bend shallow-to-moderate (pain-free, box-limited), and do not do deep squats, deep lunges, or loaded deep knee flexion. No loaded squats or lunges are programmed. Stop any movement that reproduces knee pain.",
+      "Bodyweight Squat: limit depth to a pain-free shallow-to-moderate range (box or well above parallel); stop if knee pain recurs.",
+      "Dumbbell Bent-Over Row and Romanian Deadlift: neutral spine, hinge at the hips; reduce load if your lower back fatigues.",
+      "Pull exercises: Dumbbell Bent-Over Row (db_row) is the only available dumbbell/bodyweight pull exercise suitable for a beginner. Bench-based rows (single-arm row, chest-supported row) are excluded because you have no bench; Renegade Row is advanced and loads the wrists. db_row is therefore used in all three sessions, varied by rep range and tempo.",
+      "Week 1 is a ramp-in (2 sets per exercise, about 3 reps in reserve). Week 8 is a deload (about 4 reps in reserve, lighter load or easier pace). Never train to true failure as a beginner.",
+      "Optional easier week: if you feel unusually fatigued or sore around weeks 4-5, drop to 2 sets per exercise at about 3 reps in reserve for one week, then continue.",
+      "If knee pain persists, see a clinician. The research sources are general-audience and secondary, and this program is not clinical or medical advice.",
+      "Nutrition is the main driver of fat loss and is outside the scope of this program. Optional knee-friendly activity on off days: walking, cycling, or swimming."
+    ],
+    "equipment_list": [
+      "dumbbell",
+      "bodyweight"
+    ],
+    "sections_order": [
+      "Summary",
+      "Confirmed Requirements",
+      "Weekly Schedule Overview",
+      "Session-by-Session Program",
+      "Progression Plan",
+      "Equipment & Substitutions",
+      "Safety Notes",
+      "Sources"
+    ],
+    "sessions": [
+      {
+        "session_id": "day1",
+        "exercises": [
+          {
+            "exercise_id": "db_floor_press",
+            "name": "Dumbbell Floor Press",
+            "sets": 3,
+            "reps_range": "8-12",
+            "rest_seconds": 75,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "db_romanian_deadlift",
+            "name": "Dumbbell Romanian Deadlift",
+            "sets": 3,
+            "reps_range": "10-15",
+            "rest_seconds": 75,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_squat",
+            "name": "Bodyweight Squat",
+            "sets": 3,
+            "reps_range": "10-15",
+            "rest_seconds": 45,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "db_row",
+            "name": "Dumbbell Bent-Over Row",
+            "sets": 3,
+            "reps_range": "8-12",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_incline_pushup",
+            "name": "Incline Push-Up",
+            "sets": 2,
+            "reps_range": "8-15",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_plank",
+            "name": "Plank",
+            "sets": 2,
+            "reps_range": "20-40 sec",
+            "rest_seconds": 45,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          }
+        ]
+      },
+      {
+        "session_id": "day2",
+        "exercises": [
+          {
+            "exercise_id": "db_row",
+            "name": "Dumbbell Bent-Over Row",
+            "sets": 3,
+            "reps_range": "10-15 (slow 3-sec lowering)",
+            "rest_seconds": 75,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_pushup",
+            "name": "Push-Up",
+            "sets": 3,
+            "reps_range": "6-12",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_single_leg_glute_bridge",
+            "name": "Single-Leg Glute Bridge",
+            "sets": 3,
+            "reps_range": "8-12 per leg",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_squat",
+            "name": "Bodyweight Squat",
+            "sets": 2,
+            "reps_range": "10-15 (shallow, box-limited)",
+            "rest_seconds": 45,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "db_farmers_carry",
+            "name": "Dumbbell Farmer's Carry",
+            "sets": 3,
+            "reps_range": "30-40 sec",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_side_plank",
+            "name": "Side Plank",
+            "sets": 2,
+            "reps_range": "15-30 sec per side",
+            "rest_seconds": 30,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          }
+        ]
+      },
+      {
+        "session_id": "day3",
+        "exercises": [
+          {
+            "exercise_id": "db_floor_press",
+            "name": "Dumbbell Floor Press",
+            "sets": 2,
+            "reps_range": "10-15",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "db_row",
+            "name": "Dumbbell Bent-Over Row",
+            "sets": 3,
+            "reps_range": "12-15",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_squat",
+            "name": "Bodyweight Squat",
+            "sets": 3,
+            "reps_range": "12-15",
+            "rest_seconds": 45,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "db_romanian_deadlift",
+            "name": "Dumbbell Romanian Deadlift",
+            "sets": 2,
+            "reps_range": "12-15",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_glute_bridge",
+            "name": "Glute Bridge (circuit station 1)",
+            "sets": 3,
+            "reps_range": "15 reps / 35 sec, circuit round",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_plank",
+            "name": "Plank (circuit station 2)",
+            "sets": 3,
+            "reps_range": "30 sec, circuit round",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "db_biceps_curl",
+            "name": "Dumbbell Biceps Curl (circuit station 3)",
+            "sets": 3,
+            "reps_range": "12-15 / 35 sec, circuit round",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "dumbbell"
+            ],
+            "source": "mcp_exercise_db"
+          },
+          {
+            "exercise_id": "bw_calf_raise",
+            "name": "Standing Calf Raise (circuit station 4)",
+            "sets": 3,
+            "reps_range": "15-20 / 35 sec, circuit round",
+            "rest_seconds": 60,
+            "equipment_used": [
+              "bodyweight"
+            ],
+            "source": "mcp_exercise_db"
+          }
+        ]
+      }
+    ],
+    "progression": {
+      "strategy": "Double progression within each exercise's rep range (per research.json finding for beginner fat-loss training: moderate rep ranges, 1-3 RIR, dumbbell loads capped around 20 kg). Week 1 starts one set lighter on 3-set exercises, weeks 2-7 run the prescribed sets while RIR tightens from 3 to 1-2, and week 8 is a lighter consolidation/deload. Once rep-range tops are reached, add load in small steps, or, when dumbbells cap out, add tempo, pauses, or shorter rest. Knee flexion stays shallow-to-moderate throughout. If you feel unusually fatigued or sore around weeks 4-5, take an easier week (drop to 2 sets per exercise at about 3 RIR) before continuing.",
+      "deload_weeks": [
+        8
+      ],
+      "optional_easier_week": "Weeks 4-5, if unusually fatigued: 2 sets per exercise at about 3 RIR for one week"
+    },
+    "sources": [
+      "https://www.garagegymreviews.com/how-many-sets-per-muscle-group-per-week",
+      "https://acsm.org/science-spotlight-acsm-releases-new-position-stand-on-resistance-training/",
+      "https://www.ideafit.com/progression-models-in-resistance-training-for-healthy-adults",
+      "https://welltech.com/content/worst-knee-exercise-with-safe-alternatives",
+      "https://www.ideafit.com/acsm-on-weight-loss",
+      "Exercise catalogue: exercise-db MCP server (search_exercises, get_equipment_alternatives, list_equipment_categories)"
+    ],
+    "source_caveats": [
+      "Research sources are secondary fitness-media or summary articles, not primary studies or clinical advice; confirm details against primary sources (e.g. the ACSM position stand) if citing exactly.",
+      "Nutrition is outside the scope of this program."
+    ]
+  }
+}

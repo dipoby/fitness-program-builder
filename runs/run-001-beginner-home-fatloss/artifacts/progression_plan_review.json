@@ -1,0 +1,20 @@
+{
+  "run_id": "run-001-beginner-home-fatloss",
+  "phase": "progression_plan_review",
+  "produced_by": "quality-reviewer",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-01-15T14:37:00+00:00",
+  "payload": {
+    "phase_reviewed": "progression_plan",
+    "phase_reviewed_version": 1,
+    "result": "pass",
+    "checks": [
+      {"name": "schema_validation", "passed": true},
+      {"name": "all_exercise_ids_exist_in_exercise_selection", "passed": true},
+      {"name": "progression_actually_progresses", "passed": true, "detail": "RPE/intensity guidance ramps weeks 1-2 -> 3-5 -> 7-8, with a genuine volume reduction (one fewer set per exercise) in the week-6 deload rather than a cosmetic label."},
+      {"name": "progression_rate_appropriate_for_beginner", "passed": true, "detail": "Guidance is qualitative (RPE + 'increase when you hit the top of the range twice') rather than prescribing specific absolute loads the system can't know -- appropriate for an unsupervised beginner program."}
+    ],
+    "failure_reasons": []
+  }
+}

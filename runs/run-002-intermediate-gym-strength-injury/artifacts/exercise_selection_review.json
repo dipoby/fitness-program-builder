@@ -1,0 +1,21 @@
+{
+  "run_id": "run-002-intermediate-gym-strength-injury",
+  "phase": "exercise_selection_review",
+  "produced_by": "quality-reviewer",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-02-03T09:13:20+00:00",
+  "payload": {
+    "phase_reviewed": "exercise_selection",
+    "phase_reviewed_version": 1,
+    "result": "fail",
+    "checks": [
+      {"name": "schema_validation", "passed": true},
+      {"name": "equipment_subset_of_requirements", "passed": true},
+      {"name": "no_contraindicated_exercise", "passed": false, "detail": "day3's push slot uses bb_overhead_press, which is tagged shoulder_overhead — the exact constraint confirmed in requirements.json (user has shoulder impingement, avoid overhead pressing)."}
+    ],
+    "failure_reasons": [
+      "session day3, exercise bb_overhead_press (Barbell Overhead Press): violates confirmed constraint contraindication_tag 'shoulder_overhead'. Replace with a non-overhead push exercise. The exercise-db MCP server's get_equipment_alternatives('bb_overhead_press', available_equipment=['barbell','dumbbell','bench','squat-rack','cable-machine']) tool returns 'db_landmine_press' and 'db_bench_press' as viable, non-contraindicated substitutes — use one of those instead of re-deriving from scratch."
+    ]
+  }
+}

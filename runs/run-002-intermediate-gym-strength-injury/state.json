@@ -1,0 +1,96 @@
+{
+  "run_id": "run-002-intermediate-gym-strength-injury",
+  "status": "completed",
+  "created_at": "2026-10-02T14:05:51.595623+00:00",
+  "updated_at": "2026-10-02T14:09:04.785516+00:00",
+  "input_summary": "Intermediate lifter, full commercial gym access (barbell, dumbbell, bench, squat rack, cable machine), 4 days/week, 60 minutes/session, goal is strength. Mild shoulder impingement -- avoid overhead pressing.",
+  "phases": {
+    "requirements": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/requirements.json",
+      "last_failure": null
+    },
+    "research": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/research.json",
+      "last_failure": null
+    },
+    "architecture": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/architecture.json",
+      "last_failure": null
+    },
+    "exercise_selection": {
+      "status": "completed",
+      "attempts": 2,
+      "max_attempts": 3,
+      "artifact": "artifacts/exercise_selection.json",
+      "last_failure": null
+    },
+    "progression_plan": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/progression_plan.json",
+      "last_failure": null
+    },
+    "final_draft": {
+      "status": "completed",
+      "attempts": 1,
+      "max_attempts": 3,
+      "artifact": "artifacts/final_draft.json",
+      "last_failure": null
+    }
+  },
+  "human_approval": {
+    "status": "approved",
+    "token": "cd6eba1839c41100669980bd22721099b1935d6d3b41ef271ec24172324a2cbd",
+    "token_approved_at": "2026-10-02T14:09:04.747480+00:00",
+    "token_source_phase_version": 1,
+    "feedback_history": []
+  },
+  "log": [
+    {
+      "ts": "2026-10-02T14:05:51.595623+00:00",
+      "event": "run run-002-intermediate-gym-strength-injury initialized"
+    },
+    {
+      "ts": "2026-10-02T14:06:07.198386+00:00",
+      "event": "phase requirements -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T14:06:31.433414+00:00",
+      "event": "phase research -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T14:06:31.838261+00:00",
+      "event": "phase architecture -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T14:06:55.972137+00:00",
+      "event": "phase exercise_selection -> failed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T14:07:25.345523+00:00",
+      "event": "phase exercise_selection -> completed (attempt 2)"
+    },
+    {
+      "ts": "2026-10-02T14:08:14.393539+00:00",
+      "event": "phase progression_plan -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T14:08:36.893960+00:00",
+      "event": "phase final_draft -> completed (attempt 1)"
+    },
+    {
+      "ts": "2026-10-02T14:09:04.781500+00:00",
+      "event": "human approval granted for final_draft version 1"
+    }
+  ]
+}

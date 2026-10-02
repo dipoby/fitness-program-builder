@@ -1,0 +1,56 @@
+{
+  "run_id": "run-003-advanced-interrupt-resume",
+  "phase": "exercise_selection",
+  "produced_by": "exercise-selector",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-03-18T08:05:00+00:00",
+  "payload": {
+    "sessions": [
+      {
+        "session_id": "day1",
+        "exercises": [
+          {"exercise_id": "bw_pushup", "name": "Push-Up", "sets": 4, "reps_range": "10-15", "rest_seconds": 75, "equipment_used": ["bodyweight"], "source": "mcp_exercise_db"},
+          {"exercise_id": "bw_pike_pushup", "name": "Pike Push-Up", "sets": 3, "reps_range": "8-12", "rest_seconds": 75, "equipment_used": ["bodyweight"], "source": "mcp_exercise_db"},
+          {"exercise_id": "bw_plank", "name": "Plank", "sets": 3, "reps_range": "40-60s hold", "rest_seconds": 45, "equipment_used": ["bodyweight"], "source": "mcp_exercise_db"}
+        ]
+      },
+      {
+        "session_id": "day2",
+        "exercises": [
+          {"exercise_id": "pub_pullup", "name": "Pull-Up", "sets": 4, "reps_range": "6-10", "rest_seconds": 90, "equipment_used": ["pull-up-bar"], "source": "mcp_exercise_db"},
+          {"exercise_id": "kb_single_arm_row", "name": "Single-Arm Kettlebell Row", "sets": 3, "reps_range": "10-12 each arm", "rest_seconds": 60, "equipment_used": ["kettlebell"], "source": "mcp_exercise_db"},
+          {"exercise_id": "pub_hanging_knee_raise", "name": "Hanging Knee Raise", "sets": 3, "reps_range": "10-15", "rest_seconds": 60, "equipment_used": ["pull-up-bar"], "source": "mcp_exercise_db"}
+        ]
+      },
+      {
+        "session_id": "day3",
+        "exercises": [
+          {"exercise_id": "kb_goblet_squat", "name": "Kettlebell Goblet Squat", "sets": 4, "reps_range": "10-15", "rest_seconds": 75, "equipment_used": ["kettlebell"], "source": "mcp_exercise_db"},
+          {"exercise_id": "kb_swing", "name": "Kettlebell Swing", "sets": 4, "reps_range": "15-20", "rest_seconds": 60, "equipment_used": ["kettlebell"], "source": "mcp_exercise_db"},
+          {"exercise_id": "bw_calf_raise", "name": "Standing Calf Raise", "sets": 3, "reps_range": "15-20", "rest_seconds": 45, "equipment_used": ["bodyweight"], "source": "mcp_exercise_db"}
+        ]
+      },
+      {
+        "session_id": "day4",
+        "exercises": [
+          {"exercise_id": "bw_incline_pushup", "name": "Incline Push-Up", "sets": 4, "reps_range": "12-18", "rest_seconds": 60, "equipment_used": ["bodyweight"], "source": "mcp_exercise_db", "substitution_reason": "Chosen deliberately distinct from Day 1's flat push-up/pike push-up to add exercise variety on the second weekly push exposure, per architecture.json's Day 4 note."},
+          {"exercise_id": "rb_band_row", "name": "Resistance Band Row", "sets": 4, "reps_range": "12-15", "rest_seconds": 60, "equipment_used": ["resistance-band"], "source": "mcp_exercise_db", "substitution_reason": "Chosen deliberately distinct from Day 2's pull-up/kettlebell row for the second weekly pull exposure."}
+        ]
+      },
+      {
+        "session_id": "day5",
+        "exercises": [
+          {"exercise_id": "bw_split_squat", "name": "Bodyweight Split Squat", "sets": 4, "reps_range": "10-12 each leg", "rest_seconds": 75, "equipment_used": ["bodyweight"], "source": "mcp_exercise_db"},
+          {"exercise_id": "bw_single_leg_glute_bridge", "name": "Single-Leg Glute Bridge", "sets": 3, "reps_range": "12-15 each leg", "rest_seconds": 60, "equipment_used": ["bodyweight"], "source": "mcp_exercise_db"},
+          {"exercise_id": "kb_farmers_carry", "name": "Kettlebell Farmer's Carry", "sets": 3, "reps_range": "30-40m or 30-40s", "rest_seconds": 60, "equipment_used": ["kettlebell"], "source": "mcp_exercise_db"}
+        ]
+      }
+    ],
+    "equipment_used_overall": ["bodyweight", "kettlebell", "resistance-band", "pull-up-bar"],
+    "safety_notes": [
+      "No constraints were confirmed for this run.",
+      "Day 4 and Day 1/Day 2 deliberately use different exercise variations for the same movement patterns to add training variety given the limited equipment pool -- see research.json's note on variation mattering more at the advanced stage."
+    ]
+  }
+}

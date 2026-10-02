@@ -1,0 +1,44 @@
+{
+  "run_id": "run-003-advanced-interrupt-resume",
+  "phase": "final_draft",
+  "produced_by": "synthesizer",
+  "version": 2,
+  "status": "validated",
+  "created_at": "2026-03-18T08:30:00+00:00",
+  "payload": {
+    "title": "12-Week Advanced Muscle-Gain Program (Kettlebell + Band + Pull-Up Bar)",
+    "summary": "A 5-day/week, 12-week push/pull/legs + upper/lower program for an advanced trainee working with only a kettlebell, resistance bands, a pull-up bar, and bodyweight. Progresses through reps, tempo, and reduced rest since equipment limits simple load jumps, with a week-9 deload.",
+    "requirements_recap": {
+      "goal": "muscle_gain",
+      "experience_level": "advanced",
+      "equipment": ["bodyweight", "kettlebell", "resistance-band", "pull-up-bar"],
+      "days_per_week": 5,
+      "session_length_minutes": 50,
+      "constraints": []
+    },
+    "weekly_schedule": [
+      {"session_id": "day1", "day_label": "Day 1 — Push (~45 min)", "focus": "Push + Core"},
+      {"session_id": "day2", "day_label": "Day 2 — Pull (~45 min)", "focus": "Pull + Core"},
+      {"session_id": "day3", "day_label": "Day 3 — Legs (~45 min)", "focus": "Squat + Hinge + Accessory"},
+      {"session_id": "day4", "day_label": "Day 4 — Upper (~45 min)", "focus": "Push + Pull (different variations than Day 1/2)"},
+      {"session_id": "day5", "day_label": "Day 5 — Lower (~45 min)", "focus": "Squat + Hinge + Carry"}
+    ],
+    "safety_notes": [
+      "No injuries were confirmed; exercise selection still favors controllable, joint-friendly movements appropriate for unsupervised training.",
+      "Before Kettlebell Swings specifically (Day 3): spend 1-2 minutes on hip hinge/glute activation (e.g. a few slow bodyweight glute bridges) before swinging — swinging cold is a common way to tweak the lower back.",
+      "The week-9 deload is intentional — resist the urge to push through it at full volume."
+    ],
+    "equipment_list": ["bodyweight", "kettlebell", "resistance-band", "pull-up-bar"],
+    "sections_order": [
+      "Summary",
+      "Confirmed Requirements",
+      "Weekly Schedule Overview",
+      "Session-by-Session Program",
+      "Progression Plan",
+      "Equipment & Substitutions",
+      "Safety Notes",
+      "Sources"
+    ],
+    "revision_notes": "Version 2: addressed user feedback on final_draft version 1 — added a kettlebell-swing-specific warm-up note under Safety Notes, and added the ~45 min session-time estimate to each day's heading (both in weekly_schedule.day_label here and in the Session-by-Session Program section headings in program_preview.md)."
+  }
+}

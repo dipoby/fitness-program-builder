@@ -1,0 +1,42 @@
+{
+  "run_id": "run-003-advanced-interrupt-resume",
+  "phase": "research",
+  "produced_by": "research-agent",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-03-10T07:01:20+00:00",
+  "payload": {
+    "query_topics": [
+      "hypertrophy rep ranges and volume for advanced trainees",
+      "minimal equipment muscle gain kettlebell resistance band pull-up bar programming",
+      "5 day training split push pull legs upper lower for advanced lifters"
+    ],
+    "findings": [
+      {
+        "topic": "Hypertrophy rep ranges / volume, advanced trainee",
+        "summary": "Advanced trainees generally need higher total weekly volume per muscle group than beginners/intermediates to continue progressing, typically working in the 6-15 rep range across multiple exercises, often needing more exercise variety or technique variation (tempo, unilateral work, paused reps) since simple linear load progression stalls faster at this stage.",
+        "source": "Schoenfeld, B. — Science and Development of Muscle Hypertrophy, 2nd ed. (chapter summary)",
+        "retrieved_at": "2026-03-10T07:01:00+00:00"
+      },
+      {
+        "topic": "Minimal-equipment muscle gain",
+        "summary": "Kettlebells, bands, and bodyweight/pull-up-bar work can support continued muscle gain for an advanced trainee if volume, time-under-tension, and exercise variation are managed deliberately (e.g. slower tempos, unilateral and single-limb variations, shorter rest for metabolic stress) to compensate for the lack of easy heavy-load progression.",
+        "source": "NSCA Essentials of Strength Training and Conditioning, 4th ed. (resistance training modalities chapter summary)",
+        "retrieved_at": "2026-03-10T07:01:35+00:00"
+      },
+      {
+        "topic": "5-day split structure for advanced lifters",
+        "summary": "A push/pull/legs plus upper/lower rotation (5 sessions) is a common, well-tolerated structure for advanced trainees wanting higher weekly frequency per movement pattern without the single-muscle-group isolation of classic bodybuilding splits.",
+        "source": "NSCA Essentials of Strength Training and Conditioning, 4th ed. (program design chapter summary)",
+        "retrieved_at": "2026-03-10T07:02:10+00:00"
+      }
+    ],
+    "exercise_db_lookups": [
+      {
+        "tool": "list_equipment_categories",
+        "args": {},
+        "result_summary": "Confirmed bodyweight, kettlebell, resistance-band, and pull-up-bar are all valid canonical equipment tags."
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "run_id": "run-20261002-170239-dtxn",
+  "phase": "research_review",
+  "produced_by": "quality-reviewer",
+  "version": 1,
+  "status": "draft",
+  "created_at": "2026-10-02T17:25:00+00:00",
+  "payload": {
+    "phase_reviewed": "research",
+    "phase_reviewed_version": 1,
+    "result": "pass",
+    "checks": [
+      {"name": "mechanical_validation", "passed": true, "detail": "validate_artifact.py returned pass with no errors."},
+      {"name": "goal_coverage", "passed": true, "detail": "Findings cover fat loss rep/volume, frequency/progression, periodization, and cardio, matching goal fat_loss."},
+      {"name": "experience_level_fit", "passed": true, "detail": "Beginner guidance: 2-3 sets, 8-15 reps, no failure, simple double progression with deload."},
+      {"name": "constraint_coverage", "passed": true, "detail": "Knee deep-flexion precautions and safe alternatives (box squat, step-up, hip-dominant work) address the knee_deep_flexion tag."},
+      {"name": "equipment_and_schedule_consistency", "passed": true, "detail": "Notes dumbbell/bodyweight only, ~20 kg cap, 3 days Tue/Thu/Sat; consistent with requirements."},
+      {"name": "sources_and_exercise_db", "passed": true, "detail": "Every finding has a URL source and retrieved_at; secondary-source caveats disclosed; exercise-db list_equipment_categories was called."},
+      {"name": "recommended_parameters_realistic", "passed": true, "detail": "Parameters are consistent with the findings and plausible for 40-minute sessions."}
+    ],
+    "failure_reasons": []
+  }
+}

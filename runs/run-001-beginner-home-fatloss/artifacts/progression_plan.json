@@ -1,0 +1,856 @@
+{
+  "run_id": "run-001-beginner-home-fatloss",
+  "phase": "progression_plan",
+  "produced_by": "progression-planner",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-01-15T14:36:40+00:00",
+  "payload": {
+    "weeks": [
+      {
+        "week_number": 1,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_goblet_squat",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Pick a weight (or bodyweight regression/progression) that lets you complete every set at the lower end of the rep range with 3-4 reps left in reserve.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Pick a weight (or bodyweight regression/progression) that lets you complete every set at the lower end of the rep range with 3-4 reps left in reserve.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Pick a weight (or bodyweight regression/progression) that lets you complete every set at the lower end of the rep range with 3-4 reps left in reserve.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30-45s hold",
+                "load_guidance": "Pick a weight (or bodyweight regression/progression) that lets you complete every set at the lower end of the rep range with 3-4 reps left in reserve.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Pick a weight (or bodyweight regression/progression) that lets you complete every set at the lower end of the rep range with 3-4 reps left in reserve.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Pick a weight (or bodyweight regression/progression) that lets you complete every set at the lower end of the rep range with 3-4 reps left in reserve.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "bw_mountain_climber",
+                "sets": 3,
+                "reps": "20 total",
+                "load_guidance": "Pick a weight (or bodyweight regression/progression) that lets you complete every set at the lower end of the rep range with 3-4 reps left in reserve.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "db_lateral_raise",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "Pick a weight (or bodyweight regression/progression) that lets you complete every set at the lower end of the rep range with 3-4 reps left in reserve.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 3,
+                "reps": "8-10 each leg",
+                "load_guidance": "Pick a weight (or bodyweight regression/progression) that lets you complete every set at the lower end of the rep range with 3-4 reps left in reserve.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Pick a weight (or bodyweight regression/progression) that lets you complete every set at the lower end of the rep range with 3-4 reps left in reserve.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "10-12 each leg",
+                "load_guidance": "Pick a weight (or bodyweight regression/progression) that lets you complete every set at the lower end of the rep range with 3-4 reps left in reserve.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30-45s hold",
+                "load_guidance": "Pick a weight (or bodyweight regression/progression) that lets you complete every set at the lower end of the rep range with 3-4 reps left in reserve.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 2,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_goblet_squat",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30-45s hold",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "bw_mountain_climber",
+                "sets": 3,
+                "reps": "20 total",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "db_lateral_raise",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 3,
+                "reps": "8-10 each leg",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "10-12 each leg",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30-45s hold",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 6-7 (leave 3-4 reps in reserve) -- focus on learning the movement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 3,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_goblet_squat",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30-45s hold",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_mountain_climber",
+                "sets": 3,
+                "reps": "20 total",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "db_lateral_raise",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 3,
+                "reps": "8-10 each leg",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "10-12 each leg",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30-45s hold",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 4,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_goblet_squat",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30-45s hold",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_mountain_climber",
+                "sets": 3,
+                "reps": "20 total",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "db_lateral_raise",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 3,
+                "reps": "8-10 each leg",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "10-12 each leg",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30-45s hold",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 5,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_goblet_squat",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30-45s hold",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_mountain_climber",
+                "sets": 3,
+                "reps": "20 total",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "db_lateral_raise",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 3,
+                "reps": "8-10 each leg",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "10-12 each leg",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30-45s hold",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 7-8 -- push toward the top of the rep range with control"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 6,
+        "is_deload": true,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_goblet_squat",
+                "sets": 2,
+                "reps": "10-12",
+                "load_guidance": "Use the same or slightly lighter load than week 5; this week is about recovery, not progress.",
+                "intensity": "deload: reduce to ~60% of recent working sets, keep form crisp, no grinding reps"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 2,
+                "reps": "8-12",
+                "load_guidance": "Use the same or slightly lighter load than week 5; this week is about recovery, not progress.",
+                "intensity": "deload: reduce to ~60% of recent working sets, keep form crisp, no grinding reps"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 2,
+                "reps": "10-12",
+                "load_guidance": "Use the same or slightly lighter load than week 5; this week is about recovery, not progress.",
+                "intensity": "deload: reduce to ~60% of recent working sets, keep form crisp, no grinding reps"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 2,
+                "reps": "30-45s hold",
+                "load_guidance": "Use the same or slightly lighter load than week 5; this week is about recovery, not progress.",
+                "intensity": "deload: reduce to ~60% of recent working sets, keep form crisp, no grinding reps"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 2,
+                "reps": "10-12",
+                "load_guidance": "Use the same or slightly lighter load than week 5; this week is about recovery, not progress.",
+                "intensity": "deload: reduce to ~60% of recent working sets, keep form crisp, no grinding reps"
+              },
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 2,
+                "reps": "10-12",
+                "load_guidance": "Use the same or slightly lighter load than week 5; this week is about recovery, not progress.",
+                "intensity": "deload: reduce to ~60% of recent working sets, keep form crisp, no grinding reps"
+              },
+              {
+                "exercise_id": "bw_mountain_climber",
+                "sets": 2,
+                "reps": "20 total",
+                "load_guidance": "Use the same or slightly lighter load than week 5; this week is about recovery, not progress.",
+                "intensity": "deload: reduce to ~60% of recent working sets, keep form crisp, no grinding reps"
+              },
+              {
+                "exercise_id": "db_lateral_raise",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "Use the same or slightly lighter load than week 5; this week is about recovery, not progress.",
+                "intensity": "deload: reduce to ~60% of recent working sets, keep form crisp, no grinding reps"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 2,
+                "reps": "8-10 each leg",
+                "load_guidance": "Use the same or slightly lighter load than week 5; this week is about recovery, not progress.",
+                "intensity": "deload: reduce to ~60% of recent working sets, keep form crisp, no grinding reps"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 2,
+                "reps": "10-12",
+                "load_guidance": "Use the same or slightly lighter load than week 5; this week is about recovery, not progress.",
+                "intensity": "deload: reduce to ~60% of recent working sets, keep form crisp, no grinding reps"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 2,
+                "reps": "10-12 each leg",
+                "load_guidance": "Use the same or slightly lighter load than week 5; this week is about recovery, not progress.",
+                "intensity": "deload: reduce to ~60% of recent working sets, keep form crisp, no grinding reps"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 2,
+                "reps": "30-45s hold",
+                "load_guidance": "Use the same or slightly lighter load than week 5; this week is about recovery, not progress.",
+                "intensity": "deload: reduce to ~60% of recent working sets, keep form crisp, no grinding reps"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 7,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_goblet_squat",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30-45s hold",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "bw_mountain_climber",
+                "sets": 3,
+                "reps": "20 total",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "db_lateral_raise",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 3,
+                "reps": "8-10 each leg",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "10-12 each leg",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30-45s hold",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 8,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "db_goblet_squat",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30-45s hold",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "db_romanian_deadlift",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "db_floor_press",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "bw_mountain_climber",
+                "sets": 3,
+                "reps": "20 total",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "db_lateral_raise",
+                "sets": 2,
+                "reps": "12-15",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 3,
+                "reps": "8-10 each leg",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "db_row",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "10-12 each leg",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "30-45s hold",
+                "load_guidance": "If you hit the top of the rep range on all sets for 2 sessions in a row, increase load ~2.5-5% (dumbbell exercises) or move to a harder bodyweight variant next session.",
+                "intensity": "RPE 8 -- top of rep range should feel challenging but technically clean"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progression_strategy": "Double progression within each exercise's assigned rep range per research.json's beginner progression finding: build up reps at a given load/variant before increasing difficulty. RPE guidance ramps from 6-7 in weeks 1-2 (motor learning priority) to 8 by weeks 7-8, with a planned deload in week 6.",
+    "deload_weeks": [
+      6
+    ]
+  }
+}

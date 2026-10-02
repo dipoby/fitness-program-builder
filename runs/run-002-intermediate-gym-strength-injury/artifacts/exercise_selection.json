@@ -1,0 +1,49 @@
+{
+  "run_id": "run-002-intermediate-gym-strength-injury",
+  "phase": "exercise_selection",
+  "produced_by": "exercise-selector",
+  "version": 2,
+  "status": "validated",
+  "created_at": "2026-02-03T09:14:40+00:00",
+  "payload": {
+    "sessions": [
+      {
+        "session_id": "day1",
+        "exercises": [
+          {"exercise_id": "bb_bench_press", "name": "Barbell Bench Press", "sets": 4, "reps_range": "5-6", "rest_seconds": 150, "equipment_used": ["barbell", "bench"], "source": "mcp_exercise_db", "contraindications": []},
+          {"exercise_id": "bb_bent_over_row", "name": "Barbell Bent-Over Row", "sets": 4, "reps_range": "6-8", "rest_seconds": 120, "equipment_used": ["barbell"], "source": "mcp_exercise_db", "contraindications": ["lower_back_loaded_flexion"]},
+          {"exercise_id": "db_biceps_curl", "name": "Dumbbell Biceps Curl", "sets": 3, "reps_range": "10-12", "rest_seconds": 60, "equipment_used": ["dumbbell"], "source": "mcp_exercise_db", "contraindications": []}
+        ]
+      },
+      {
+        "session_id": "day2",
+        "exercises": [
+          {"exercise_id": "bb_back_squat", "name": "Barbell Back Squat", "sets": 4, "reps_range": "5-6", "rest_seconds": 150, "equipment_used": ["barbell", "squat-rack"], "source": "mcp_exercise_db", "contraindications": ["knee_deep_flexion", "lower_back_loaded_flexion"]},
+          {"exercise_id": "bb_deadlift", "name": "Barbell Deadlift", "sets": 3, "reps_range": "5-6", "rest_seconds": 180, "equipment_used": ["barbell"], "source": "mcp_exercise_db", "contraindications": ["lower_back_loaded_flexion"]},
+          {"exercise_id": "cm_woodchopper", "name": "Cable Woodchopper", "sets": 3, "reps_range": "12 each side", "rest_seconds": 60, "equipment_used": ["cable-machine"], "source": "mcp_exercise_db", "contraindications": ["lower_back_loaded_flexion"]}
+        ]
+      },
+      {
+        "session_id": "day3",
+        "exercises": [
+          {"exercise_id": "db_landmine_press", "name": "Dumbbell Landmine Press", "sets": 4, "reps_range": "8-10 each arm", "rest_seconds": 120, "equipment_used": ["dumbbell", "barbell"], "source": "mcp_substitution", "substitution_reason": "Replaces bb_overhead_press (tagged shoulder_overhead, violates confirmed shoulder-impingement constraint) with a non-overhead, angled pressing pattern that still trains shoulders/chest. Returned by get_equipment_alternatives('bb_overhead_press', available_equipment=['barbell','dumbbell','bench','squat-rack','cable-machine']); has no contraindications in the catalogue.", "contraindications": []},
+          {"exercise_id": "cm_seated_row", "name": "Cable Seated Row", "sets": 4, "reps_range": "8-10", "rest_seconds": 90, "equipment_used": ["cable-machine"], "source": "mcp_exercise_db", "contraindications": []},
+          {"exercise_id": "cm_tricep_pushdown", "name": "Cable Triceps Pushdown", "sets": 3, "reps_range": "10-12", "rest_seconds": 60, "equipment_used": ["cable-machine"], "source": "mcp_exercise_db", "contraindications": []}
+        ]
+      },
+      {
+        "session_id": "day4",
+        "exercises": [
+          {"exercise_id": "db_bulgarian_split_squat", "name": "Dumbbell Bulgarian Split Squat", "sets": 3, "reps_range": "6-8 each leg", "rest_seconds": 120, "equipment_used": ["dumbbell", "bench"], "source": "mcp_exercise_db", "contraindications": ["knee_deep_flexion"]},
+          {"exercise_id": "bb_hip_thrust", "name": "Barbell Hip Thrust", "sets": 4, "reps_range": "6-8", "rest_seconds": 120, "equipment_used": ["barbell", "bench"], "source": "mcp_exercise_db", "contraindications": []},
+          {"exercise_id": "cm_woodchopper", "name": "Cable Woodchopper", "sets": 3, "reps_range": "12 each side", "rest_seconds": 60, "equipment_used": ["cable-machine"], "source": "mcp_exercise_db", "contraindications": ["lower_back_loaded_flexion"]}
+        ]
+      }
+    ],
+    "equipment_used_overall": ["barbell", "dumbbell", "bench", "squat-rack", "cable-machine"],
+    "safety_notes": [
+      "No lower-back constraint was confirmed, so lower_back_loaded_flexion-tagged exercises (deadlift, back squat, bent-over row, woodchopper) are included normally.",
+      "day3's push exercise was substituted from Barbell Overhead Press to Dumbbell Landmine Press specifically because of the confirmed shoulder-impingement constraint — see substitution_reason."
+    ]
+  }
+}

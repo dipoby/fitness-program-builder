@@ -1,0 +1,1116 @@
+{
+  "run_id": "run-002-intermediate-gym-strength-injury",
+  "phase": "progression_plan",
+  "produced_by": "progression-planner",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-02-03T09:16:30+00:00",
+  "payload": {
+    "weeks": [
+      {
+        "week_number": 1,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bb_bench_press",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Start at a weight you could do 1-2 reps beyond the bottom of the rep range -- this block's starting point, not a max effort.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "bb_bent_over_row",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Start at a weight you could do 1-2 reps beyond the bottom of the rep range -- this block's starting point, not a max effort.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "bb_back_squat",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Start at a weight you could do 1-2 reps beyond the bottom of the rep range -- this block's starting point, not a max effort.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "bb_deadlift",
+                "sets": 3,
+                "reps": "5-6",
+                "load_guidance": "Start at a weight you could do 1-2 reps beyond the bottom of the rep range -- this block's starting point, not a max effort.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_landmine_press",
+                "sets": 4,
+                "reps": "8-10 each arm",
+                "load_guidance": "Start at a weight you could do 1-2 reps beyond the bottom of the rep range -- this block's starting point, not a max effort.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "cm_seated_row",
+                "sets": 4,
+                "reps": "8-10",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "cm_tricep_pushdown",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "db_bulgarian_split_squat",
+                "sets": 3,
+                "reps": "6-8 each leg",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "bb_hip_thrust",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Start at a weight you could do 1-2 reps beyond the bottom of the rep range -- this block's starting point, not a max effort.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 2,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bb_bench_press",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "bb_bent_over_row",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "bb_back_squat",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "bb_deadlift",
+                "sets": 3,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_landmine_press",
+                "sets": 4,
+                "reps": "8-10 each arm",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "cm_seated_row",
+                "sets": 4,
+                "reps": "8-10",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "cm_tricep_pushdown",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "db_bulgarian_split_squat",
+                "sets": 3,
+                "reps": "6-8 each leg",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "bb_hip_thrust",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 3,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bb_bench_press",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "bb_bent_over_row",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "bb_back_squat",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "bb_deadlift",
+                "sets": 3,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_landmine_press",
+                "sets": 4,
+                "reps": "8-10 each arm",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "cm_seated_row",
+                "sets": 4,
+                "reps": "8-10",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "cm_tricep_pushdown",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "db_bulgarian_split_squat",
+                "sets": 3,
+                "reps": "6-8 each leg",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "bb_hip_thrust",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7 -- solid working sets, 2-3 reps in reserve on main lifts"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 4,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bb_bench_press",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "bb_bent_over_row",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "bb_back_squat",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "bb_deadlift",
+                "sets": 3,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_landmine_press",
+                "sets": 4,
+                "reps": "8-10 each arm",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "cm_seated_row",
+                "sets": 4,
+                "reps": "8-10",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "cm_tricep_pushdown",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "db_bulgarian_split_squat",
+                "sets": 3,
+                "reps": "6-8 each leg",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "bb_hip_thrust",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 5,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bb_bench_press",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "bb_bent_over_row",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "bb_back_squat",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "bb_deadlift",
+                "sets": 3,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_landmine_press",
+                "sets": 4,
+                "reps": "8-10 each arm",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "cm_seated_row",
+                "sets": 4,
+                "reps": "8-10",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "cm_tricep_pushdown",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "db_bulgarian_split_squat",
+                "sets": 3,
+                "reps": "6-8 each leg",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "bb_hip_thrust",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 7.5-8 -- approaching recent top weights"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 6,
+        "is_deload": true,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bb_bench_press",
+                "sets": 3,
+                "reps": "5-6",
+                "load_guidance": "Same or ~10% lighter than week 5's working weight -- this week is recovery, not a test.",
+                "intensity": "deload: ~60% of recent working sets at the same or lighter load, bar speed/form focus only"
+              },
+              {
+                "exercise_id": "bb_bent_over_row",
+                "sets": 3,
+                "reps": "6-8",
+                "load_guidance": "Same or ~10% lighter than week 5's working weight -- this week is recovery, not a test.",
+                "intensity": "deload: ~60% of recent working sets at the same or lighter load, bar speed/form focus only"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 2,
+                "reps": "10-12",
+                "load_guidance": "Same or ~10% lighter than week 5's working weight -- this week is recovery, not a test.",
+                "intensity": "deload: ~60% of recent working sets at the same or lighter load, bar speed/form focus only"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "bb_back_squat",
+                "sets": 3,
+                "reps": "5-6",
+                "load_guidance": "Same or ~10% lighter than week 5's working weight -- this week is recovery, not a test.",
+                "intensity": "deload: ~60% of recent working sets at the same or lighter load, bar speed/form focus only"
+              },
+              {
+                "exercise_id": "bb_deadlift",
+                "sets": 2,
+                "reps": "5-6",
+                "load_guidance": "Same or ~10% lighter than week 5's working weight -- this week is recovery, not a test.",
+                "intensity": "deload: ~60% of recent working sets at the same or lighter load, bar speed/form focus only"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 2,
+                "reps": "12 each side",
+                "load_guidance": "Same or ~10% lighter than week 5's working weight -- this week is recovery, not a test.",
+                "intensity": "deload: ~60% of recent working sets at the same or lighter load, bar speed/form focus only"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_landmine_press",
+                "sets": 3,
+                "reps": "8-10 each arm",
+                "load_guidance": "Same or ~10% lighter than week 5's working weight -- this week is recovery, not a test.",
+                "intensity": "deload: ~60% of recent working sets at the same or lighter load, bar speed/form focus only"
+              },
+              {
+                "exercise_id": "cm_seated_row",
+                "sets": 3,
+                "reps": "8-10",
+                "load_guidance": "Same or ~10% lighter than week 5's working weight -- this week is recovery, not a test.",
+                "intensity": "deload: ~60% of recent working sets at the same or lighter load, bar speed/form focus only"
+              },
+              {
+                "exercise_id": "cm_tricep_pushdown",
+                "sets": 2,
+                "reps": "10-12",
+                "load_guidance": "Same or ~10% lighter than week 5's working weight -- this week is recovery, not a test.",
+                "intensity": "deload: ~60% of recent working sets at the same or lighter load, bar speed/form focus only"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "db_bulgarian_split_squat",
+                "sets": 2,
+                "reps": "6-8 each leg",
+                "load_guidance": "Same or ~10% lighter than week 5's working weight -- this week is recovery, not a test.",
+                "intensity": "deload: ~60% of recent working sets at the same or lighter load, bar speed/form focus only"
+              },
+              {
+                "exercise_id": "bb_hip_thrust",
+                "sets": 3,
+                "reps": "6-8",
+                "load_guidance": "Same or ~10% lighter than week 5's working weight -- this week is recovery, not a test.",
+                "intensity": "deload: ~60% of recent working sets at the same or lighter load, bar speed/form focus only"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 2,
+                "reps": "12 each side",
+                "load_guidance": "Same or ~10% lighter than week 5's working weight -- this week is recovery, not a test.",
+                "intensity": "deload: ~60% of recent working sets at the same or lighter load, bar speed/form focus only"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 7,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bb_bench_press",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "bb_bent_over_row",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "bb_back_squat",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "bb_deadlift",
+                "sets": 3,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_landmine_press",
+                "sets": 4,
+                "reps": "8-10 each arm",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "cm_seated_row",
+                "sets": 4,
+                "reps": "8-10",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "cm_tricep_pushdown",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "db_bulgarian_split_squat",
+                "sets": 3,
+                "reps": "6-8 each leg",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "bb_hip_thrust",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 8,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bb_bench_press",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "bb_bent_over_row",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "bb_back_squat",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "bb_deadlift",
+                "sets": 3,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_landmine_press",
+                "sets": 4,
+                "reps": "8-10 each arm",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "cm_seated_row",
+                "sets": 4,
+                "reps": "8-10",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "cm_tricep_pushdown",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "db_bulgarian_split_squat",
+                "sets": 3,
+                "reps": "6-8 each leg",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "bb_hip_thrust",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 9,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bb_bench_press",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "bb_bent_over_row",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "bb_back_squat",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "bb_deadlift",
+                "sets": 3,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_landmine_press",
+                "sets": 4,
+                "reps": "8-10 each arm",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "cm_seated_row",
+                "sets": 4,
+                "reps": "8-10",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "cm_tricep_pushdown",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "db_bulgarian_split_squat",
+                "sets": 3,
+                "reps": "6-8 each leg",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "bb_hip_thrust",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 8-9 -- genuine strength-building intensity on main lifts"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 10,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bb_bench_press",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 9 (week 10 peak) -- heaviest clean sets of the block on main lifts; accessories stay moderate"
+              },
+              {
+                "exercise_id": "bb_bent_over_row",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 9 (week 10 peak) -- heaviest clean sets of the block on main lifts; accessories stay moderate"
+              },
+              {
+                "exercise_id": "db_biceps_curl",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 9 (week 10 peak) -- heaviest clean sets of the block on main lifts; accessories stay moderate"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "bb_back_squat",
+                "sets": 4,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 9 (week 10 peak) -- heaviest clean sets of the block on main lifts; accessories stay moderate"
+              },
+              {
+                "exercise_id": "bb_deadlift",
+                "sets": 3,
+                "reps": "5-6",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 9 (week 10 peak) -- heaviest clean sets of the block on main lifts; accessories stay moderate"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 9 (week 10 peak) -- heaviest clean sets of the block on main lifts; accessories stay moderate"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "db_landmine_press",
+                "sets": 4,
+                "reps": "8-10 each arm",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 9 (week 10 peak) -- heaviest clean sets of the block on main lifts; accessories stay moderate"
+              },
+              {
+                "exercise_id": "cm_seated_row",
+                "sets": 4,
+                "reps": "8-10",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 9 (week 10 peak) -- heaviest clean sets of the block on main lifts; accessories stay moderate"
+              },
+              {
+                "exercise_id": "cm_tricep_pushdown",
+                "sets": 3,
+                "reps": "10-12",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 9 (week 10 peak) -- heaviest clean sets of the block on main lifts; accessories stay moderate"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "db_bulgarian_split_squat",
+                "sets": 3,
+                "reps": "6-8 each leg",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 9 (week 10 peak) -- heaviest clean sets of the block on main lifts; accessories stay moderate"
+              },
+              {
+                "exercise_id": "bb_hip_thrust",
+                "sets": 4,
+                "reps": "6-8",
+                "load_guidance": "Add load (~2.5-5kg on upper lifts, ~5-10kg on squat/deadlift) once you complete all sets at the top of the rep range with good bar speed.",
+                "intensity": "RPE 9 (week 10 peak) -- heaviest clean sets of the block on main lifts; accessories stay moderate"
+              },
+              {
+                "exercise_id": "cm_woodchopper",
+                "sets": 3,
+                "reps": "12 each side",
+                "load_guidance": "Accessory lift: progress reps within range before adding small load jumps; don't chase PRs here.",
+                "intensity": "RPE 9 (week 10 peak) -- heaviest clean sets of the block on main lifts; accessories stay moderate"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progression_strategy": "Linear load progression on main compound lifts (bench, squat, deadlift, landmine press, hip thrust, bent-over row) per research.json's intermediate-strength finding (heavy 3-6 rep work, 2-3 min rest), double progression on accessories, with a week-6 deload and a week-10 peak.",
+    "deload_weeks": [
+      6
+    ]
+  }
+}

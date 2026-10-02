@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "exercise-db": {
+      "command": "python",
+      "args": ["mcp_servers/exercise_db/server.py"],
+      "env": {}
+    }
+  }
+}

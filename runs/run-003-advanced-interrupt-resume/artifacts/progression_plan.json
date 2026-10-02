@@ -1,0 +1,1564 @@
+{
+  "run_id": "run-003-advanced-interrupt-resume",
+  "phase": "progression_plan",
+  "produced_by": "progression-planner",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-03-18T08:08:00+00:00",
+  "payload": {
+    "weeks": [
+      {
+        "week_number": 1,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_pike_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "40-60s hold",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "pub_pullup",
+                "sets": 4,
+                "reps": "6-10",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "kb_single_arm_row",
+                "sets": 3,
+                "reps": "10-12 each arm",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "pub_hanging_knee_raise",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "kb_goblet_squat",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "kb_swing",
+                "sets": 4,
+                "reps": "15-20",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 3,
+                "reps": "15-20",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 4,
+                "reps": "12-18",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "rb_band_row",
+                "sets": 4,
+                "reps": "12-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day5",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 4,
+                "reps": "10-12 each leg",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "12-15 each leg",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "kb_farmers_carry",
+                "sets": 3,
+                "reps": "30-40m or 30-40s",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 2,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_pike_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "40-60s hold",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "pub_pullup",
+                "sets": 4,
+                "reps": "6-10",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "kb_single_arm_row",
+                "sets": 3,
+                "reps": "10-12 each arm",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "pub_hanging_knee_raise",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "kb_goblet_squat",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "kb_swing",
+                "sets": 4,
+                "reps": "15-20",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 3,
+                "reps": "15-20",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 4,
+                "reps": "12-18",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "rb_band_row",
+                "sets": 4,
+                "reps": "12-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day5",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 4,
+                "reps": "10-12 each leg",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "12-15 each leg",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "kb_farmers_carry",
+                "sets": 3,
+                "reps": "30-40m or 30-40s",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 3,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_pike_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "40-60s hold",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "pub_pullup",
+                "sets": 4,
+                "reps": "6-10",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "kb_single_arm_row",
+                "sets": 3,
+                "reps": "10-12 each arm",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "pub_hanging_knee_raise",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "kb_goblet_squat",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "kb_swing",
+                "sets": 4,
+                "reps": "15-20",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 3,
+                "reps": "15-20",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 4,
+                "reps": "12-18",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "rb_band_row",
+                "sets": 4,
+                "reps": "12-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day5",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 4,
+                "reps": "10-12 each leg",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "12-15 each leg",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "kb_farmers_carry",
+                "sets": 3,
+                "reps": "30-40m or 30-40s",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 4,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_pike_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "40-60s hold",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "pub_pullup",
+                "sets": 4,
+                "reps": "6-10",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "kb_single_arm_row",
+                "sets": 3,
+                "reps": "10-12 each arm",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "pub_hanging_knee_raise",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "kb_goblet_squat",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "kb_swing",
+                "sets": 4,
+                "reps": "15-20",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 3,
+                "reps": "15-20",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 4,
+                "reps": "12-18",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "rb_band_row",
+                "sets": 4,
+                "reps": "12-15",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          },
+          {
+            "session_id": "day5",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 4,
+                "reps": "10-12 each leg",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "12-15 each leg",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              },
+              {
+                "exercise_id": "kb_farmers_carry",
+                "sets": 3,
+                "reps": "30-40m or 30-40s",
+                "load_guidance": "Hold load/band tension steady; focus on adding clean reps within the range each week before changing anything else.",
+                "intensity": "RPE 7-8 -- build baseline volume tolerance across all 5 sessions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 5,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_pike_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "40-60s hold",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "pub_pullup",
+                "sets": 4,
+                "reps": "6-10",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "kb_single_arm_row",
+                "sets": 3,
+                "reps": "10-12 each arm",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "pub_hanging_knee_raise",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "kb_goblet_squat",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "kb_swing",
+                "sets": 4,
+                "reps": "15-20",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 3,
+                "reps": "15-20",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 4,
+                "reps": "12-18",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "rb_band_row",
+                "sets": 4,
+                "reps": "12-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day5",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 4,
+                "reps": "10-12 each leg",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "12-15 each leg",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "kb_farmers_carry",
+                "sets": 3,
+                "reps": "30-40m or 30-40s",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 6,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_pike_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "40-60s hold",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "pub_pullup",
+                "sets": 4,
+                "reps": "6-10",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "kb_single_arm_row",
+                "sets": 3,
+                "reps": "10-12 each arm",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "pub_hanging_knee_raise",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "kb_goblet_squat",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "kb_swing",
+                "sets": 4,
+                "reps": "15-20",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 3,
+                "reps": "15-20",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 4,
+                "reps": "12-18",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "rb_band_row",
+                "sets": 4,
+                "reps": "12-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day5",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 4,
+                "reps": "10-12 each leg",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "12-15 each leg",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "kb_farmers_carry",
+                "sets": 3,
+                "reps": "30-40m or 30-40s",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 7,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_pike_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "40-60s hold",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "pub_pullup",
+                "sets": 4,
+                "reps": "6-10",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "kb_single_arm_row",
+                "sets": 3,
+                "reps": "10-12 each arm",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "pub_hanging_knee_raise",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "kb_goblet_squat",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "kb_swing",
+                "sets": 4,
+                "reps": "15-20",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 3,
+                "reps": "15-20",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 4,
+                "reps": "12-18",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "rb_band_row",
+                "sets": 4,
+                "reps": "12-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day5",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 4,
+                "reps": "10-12 each leg",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "12-15 each leg",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "kb_farmers_carry",
+                "sets": 3,
+                "reps": "30-40m or 30-40s",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 8,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_pike_pushup",
+                "sets": 3,
+                "reps": "8-12",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 3,
+                "reps": "40-60s hold",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "pub_pullup",
+                "sets": 4,
+                "reps": "6-10",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "kb_single_arm_row",
+                "sets": 3,
+                "reps": "10-12 each arm",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "pub_hanging_knee_raise",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "kb_goblet_squat",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "kb_swing",
+                "sets": 4,
+                "reps": "15-20",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 3,
+                "reps": "15-20",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 4,
+                "reps": "12-18",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "rb_band_row",
+                "sets": 4,
+                "reps": "12-15",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          },
+          {
+            "session_id": "day5",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 4,
+                "reps": "10-12 each leg",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 3,
+                "reps": "12-15 each leg",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              },
+              {
+                "exercise_id": "kb_farmers_carry",
+                "sets": 3,
+                "reps": "30-40m or 30-40s",
+                "load_guidance": "Once you can hit the top of the rep range for all sets, add a 3-4s controlled lowering phase (tempo) before adding more load/resistance -- this is how you keep progressing with fixed-resistance tools.",
+                "intensity": "RPE 8 -- add a rep or a slower eccentric tempo (3-4s lowering) once comfortable at the top of the range"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 9,
+        "is_deload": true,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Keep load/resistance the same or lighter than week 8; this week is about recovery and movement quality, not progress.",
+                "intensity": "deload: ~60% of recent volume, moderate effort only, prioritize joint-friendly movement quality"
+              },
+              {
+                "exercise_id": "bw_pike_pushup",
+                "sets": 2,
+                "reps": "8-12",
+                "load_guidance": "Keep load/resistance the same or lighter than week 8; this week is about recovery and movement quality, not progress.",
+                "intensity": "deload: ~60% of recent volume, moderate effort only, prioritize joint-friendly movement quality"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 2,
+                "reps": "40-60s hold",
+                "load_guidance": "Keep load/resistance the same or lighter than week 8; this week is about recovery and movement quality, not progress.",
+                "intensity": "deload: ~60% of recent volume, moderate effort only, prioritize joint-friendly movement quality"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "pub_pullup",
+                "sets": 3,
+                "reps": "6-10",
+                "load_guidance": "Keep load/resistance the same or lighter than week 8; this week is about recovery and movement quality, not progress.",
+                "intensity": "deload: ~60% of recent volume, moderate effort only, prioritize joint-friendly movement quality"
+              },
+              {
+                "exercise_id": "kb_single_arm_row",
+                "sets": 2,
+                "reps": "10-12 each arm",
+                "load_guidance": "Keep load/resistance the same or lighter than week 8; this week is about recovery and movement quality, not progress.",
+                "intensity": "deload: ~60% of recent volume, moderate effort only, prioritize joint-friendly movement quality"
+              },
+              {
+                "exercise_id": "pub_hanging_knee_raise",
+                "sets": 2,
+                "reps": "10-15",
+                "load_guidance": "Keep load/resistance the same or lighter than week 8; this week is about recovery and movement quality, not progress.",
+                "intensity": "deload: ~60% of recent volume, moderate effort only, prioritize joint-friendly movement quality"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "kb_goblet_squat",
+                "sets": 3,
+                "reps": "10-15",
+                "load_guidance": "Keep load/resistance the same or lighter than week 8; this week is about recovery and movement quality, not progress.",
+                "intensity": "deload: ~60% of recent volume, moderate effort only, prioritize joint-friendly movement quality"
+              },
+              {
+                "exercise_id": "kb_swing",
+                "sets": 3,
+                "reps": "15-20",
+                "load_guidance": "Keep load/resistance the same or lighter than week 8; this week is about recovery and movement quality, not progress.",
+                "intensity": "deload: ~60% of recent volume, moderate effort only, prioritize joint-friendly movement quality"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 2,
+                "reps": "15-20",
+                "load_guidance": "Keep load/resistance the same or lighter than week 8; this week is about recovery and movement quality, not progress.",
+                "intensity": "deload: ~60% of recent volume, moderate effort only, prioritize joint-friendly movement quality"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 3,
+                "reps": "12-18",
+                "load_guidance": "Keep load/resistance the same or lighter than week 8; this week is about recovery and movement quality, not progress.",
+                "intensity": "deload: ~60% of recent volume, moderate effort only, prioritize joint-friendly movement quality"
+              },
+              {
+                "exercise_id": "rb_band_row",
+                "sets": 3,
+                "reps": "12-15",
+                "load_guidance": "Keep load/resistance the same or lighter than week 8; this week is about recovery and movement quality, not progress.",
+                "intensity": "deload: ~60% of recent volume, moderate effort only, prioritize joint-friendly movement quality"
+              }
+            ]
+          },
+          {
+            "session_id": "day5",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 3,
+                "reps": "10-12 each leg",
+                "load_guidance": "Keep load/resistance the same or lighter than week 8; this week is about recovery and movement quality, not progress.",
+                "intensity": "deload: ~60% of recent volume, moderate effort only, prioritize joint-friendly movement quality"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 2,
+                "reps": "12-15 each leg",
+                "load_guidance": "Keep load/resistance the same or lighter than week 8; this week is about recovery and movement quality, not progress.",
+                "intensity": "deload: ~60% of recent volume, moderate effort only, prioritize joint-friendly movement quality"
+              },
+              {
+                "exercise_id": "kb_farmers_carry",
+                "sets": 2,
+                "reps": "30-40m or 30-40s",
+                "load_guidance": "Keep load/resistance the same or lighter than week 8; this week is about recovery and movement quality, not progress.",
+                "intensity": "deload: ~60% of recent volume, moderate effort only, prioritize joint-friendly movement quality"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 10,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 5,
+                "reps": "10-15",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "bw_pike_pushup",
+                "sets": 4,
+                "reps": "8-12",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 4,
+                "reps": "40-60s hold",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "pub_pullup",
+                "sets": 5,
+                "reps": "6-10",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "kb_single_arm_row",
+                "sets": 4,
+                "reps": "10-12 each arm",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "pub_hanging_knee_raise",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "kb_goblet_squat",
+                "sets": 5,
+                "reps": "10-15",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "kb_swing",
+                "sets": 5,
+                "reps": "15-20",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 4,
+                "reps": "15-20",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 5,
+                "reps": "12-18",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "rb_band_row",
+                "sets": 5,
+                "reps": "12-15",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          },
+          {
+            "session_id": "day5",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 5,
+                "reps": "10-12 each leg",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 4,
+                "reps": "12-15 each leg",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "kb_farmers_carry",
+                "sets": 4,
+                "reps": "30-40m or 30-40s",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 11,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 5,
+                "reps": "10-15",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "bw_pike_pushup",
+                "sets": 4,
+                "reps": "8-12",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 4,
+                "reps": "40-60s hold",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "pub_pullup",
+                "sets": 5,
+                "reps": "6-10",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "kb_single_arm_row",
+                "sets": 4,
+                "reps": "10-12 each arm",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "pub_hanging_knee_raise",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "kb_goblet_squat",
+                "sets": 5,
+                "reps": "10-15",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "kb_swing",
+                "sets": 5,
+                "reps": "15-20",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 4,
+                "reps": "15-20",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 5,
+                "reps": "12-18",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "rb_band_row",
+                "sets": 5,
+                "reps": "12-15",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          },
+          {
+            "session_id": "day5",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 5,
+                "reps": "10-12 each leg",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 4,
+                "reps": "12-15 each leg",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "kb_farmers_carry",
+                "sets": 4,
+                "reps": "30-40m or 30-40s",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week_number": 12,
+        "is_deload": false,
+        "sessions": [
+          {
+            "session_id": "day1",
+            "exercises": [
+              {
+                "exercise_id": "bw_pushup",
+                "sets": 5,
+                "reps": "10-15",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "bw_pike_pushup",
+                "sets": 4,
+                "reps": "8-12",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "bw_plank",
+                "sets": 4,
+                "reps": "40-60s hold",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          },
+          {
+            "session_id": "day2",
+            "exercises": [
+              {
+                "exercise_id": "pub_pullup",
+                "sets": 5,
+                "reps": "6-10",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "kb_single_arm_row",
+                "sets": 4,
+                "reps": "10-12 each arm",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "pub_hanging_knee_raise",
+                "sets": 4,
+                "reps": "10-15",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          },
+          {
+            "session_id": "day3",
+            "exercises": [
+              {
+                "exercise_id": "kb_goblet_squat",
+                "sets": 5,
+                "reps": "10-15",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "kb_swing",
+                "sets": 5,
+                "reps": "15-20",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "bw_calf_raise",
+                "sets": 4,
+                "reps": "15-20",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          },
+          {
+            "session_id": "day4",
+            "exercises": [
+              {
+                "exercise_id": "bw_incline_pushup",
+                "sets": 5,
+                "reps": "12-18",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "rb_band_row",
+                "sets": 5,
+                "reps": "12-15",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          },
+          {
+            "session_id": "day5",
+            "exercises": [
+              {
+                "exercise_id": "bw_split_squat",
+                "sets": 5,
+                "reps": "10-12 each leg",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "bw_single_leg_glute_bridge",
+                "sets": 4,
+                "reps": "12-15 each leg",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              },
+              {
+                "exercise_id": "kb_farmers_carry",
+                "sets": 4,
+                "reps": "30-40m or 30-40s",
+                "load_guidance": "Combine top-of-range reps, tempo, and ~15s less rest to add metabolic stress now that simple load jumps are limited by the equipment on hand.",
+                "intensity": "RPE 8-9 (post-deload push to week 12 peak) -- combine top-of-range reps with tempo and reduced rest for added metabolic stress"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "progression_strategy": "Volume- and variation-based progression per research.json's advanced/minimal-equipment finding: since simple load jumps are limited by kettlebell/band/bodyweight-only equipment, progress via added reps first, then tempo (slower eccentrics), then reduced rest for metabolic stress, with an extra top-up set added in the final push (weeks 10-12) after the week-9 deload.",
+    "deload_weeks": [
+      9
+    ]
+  }
+}

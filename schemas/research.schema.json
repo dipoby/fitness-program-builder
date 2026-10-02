@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "research.schema.json",
+  "title": "research artifact",
+  "type": "object",
+  "required": ["run_id", "phase", "produced_by", "version", "status", "created_at", "payload"],
+  "properties": {
+    "run_id": {"type": "string", "minLength": 1},
+    "phase": {"const": "research"},
+    "produced_by": {"type": "string"},
+    "version": {"type": "integer", "minimum": 1},
+    "status": {"enum": ["draft", "validated", "failed"]},
+    "created_at": {"type": "string", "format": "date-time"},
+    "payload": {
+      "type": "object",
+      "required": ["query_topics", "findings"],
+      "properties": {
+        "query_topics": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+        "findings": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["topic", "summary", "source"],
+            "properties": {
+              "topic": {"type": "string"},
+              "summary": {"type": "string"},
+              "source": {"type": "string"},
+              "retrieved_at": {"type": "string", "format": "date-time"}
+            }
+          }
+        },
+        "exercise_db_lookups": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["tool", "args"],
+            "properties": {
+              "tool": {"type": "string"},
+              "args": {"type": "object"},
+              "result_summary": {"type": "string"}
+            }
+          }
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": false
+}

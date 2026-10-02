@@ -1,0 +1,20 @@
+{
+  "run_id": "run-001-beginner-home-fatloss",
+  "phase": "architecture_review",
+  "produced_by": "quality-reviewer",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-01-15T14:32:55+00:00",
+  "payload": {
+    "phase_reviewed": "architecture",
+    "phase_reviewed_version": 1,
+    "result": "pass",
+    "checks": [
+      {"name": "schema_validation", "passed": true},
+      {"name": "target_minutes_fits_session_length", "passed": true, "detail": "35 min target vs. 40 min confirmed session length leaves a reasonable warm-up/transition buffer."},
+      {"name": "split_appropriate_for_experience_level", "passed": true, "detail": "Full-body 3x/week is the recommended default for a true beginner rather than a body-part split."},
+      {"name": "no_premature_exercise_selection", "passed": true, "detail": "Payload stays at the movement-pattern level; no specific exercise names present."}
+    ],
+    "failure_reasons": []
+  }
+}

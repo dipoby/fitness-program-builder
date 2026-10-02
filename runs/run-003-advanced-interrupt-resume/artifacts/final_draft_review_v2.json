@@ -1,0 +1,20 @@
+{
+  "run_id": "run-003-advanced-interrupt-resume",
+  "phase": "final_draft_review",
+  "produced_by": "quality-reviewer",
+  "version": 2,
+  "status": "validated",
+  "created_at": "2026-03-18T08:30:20+00:00",
+  "payload": {
+    "phase_reviewed": "final_draft",
+    "phase_reviewed_version": 2,
+    "result": "pass",
+    "checks": [
+      {"name": "schema_validation", "passed": true},
+      {"name": "sections_order_matches_fixed_template", "passed": true},
+      {"name": "faithful_to_upstream_artifacts", "passed": true},
+      {"name": "user_feedback_addressed", "passed": true, "detail": "Both items from the rejection feedback are present: a kettlebell-swing-specific warm-up note in Safety Notes, and ~45 min added to every day_label."}
+    ],
+    "failure_reasons": []
+  }
+}

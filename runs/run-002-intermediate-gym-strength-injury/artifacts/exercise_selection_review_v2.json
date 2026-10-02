@@ -1,0 +1,20 @@
+{
+  "run_id": "run-002-intermediate-gym-strength-injury",
+  "phase": "exercise_selection_review",
+  "produced_by": "quality-reviewer",
+  "version": 2,
+  "status": "validated",
+  "created_at": "2026-02-03T09:15:00+00:00",
+  "payload": {
+    "phase_reviewed": "exercise_selection",
+    "phase_reviewed_version": 2,
+    "result": "pass",
+    "checks": [
+      {"name": "schema_validation", "passed": true},
+      {"name": "equipment_subset_of_requirements", "passed": true},
+      {"name": "no_contraindicated_exercise", "passed": true, "detail": "db_landmine_press (no contraindications) now fills day3's push slot in place of the previously-flagged bb_overhead_press."},
+      {"name": "substitution_properly_documented", "passed": true, "detail": "source='mcp_substitution' and substitution_reason correctly explain the change and reference the MCP tool call that produced it."}
+    ],
+    "failure_reasons": []
+  }
+}

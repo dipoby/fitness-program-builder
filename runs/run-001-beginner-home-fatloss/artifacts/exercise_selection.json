@@ -1,0 +1,44 @@
+{
+  "run_id": "run-001-beginner-home-fatloss",
+  "phase": "exercise_selection",
+  "produced_by": "exercise-selector",
+  "version": 1,
+  "status": "validated",
+  "created_at": "2026-01-15T14:34:50+00:00",
+  "payload": {
+    "sessions": [
+      {
+        "session_id": "day1",
+        "exercises": [
+          {"exercise_id": "db_goblet_squat", "name": "Dumbbell Goblet Squat", "sets": 3, "reps_range": "10-12", "rest_seconds": 60, "equipment_used": ["dumbbell"], "source": "mcp_exercise_db"},
+          {"exercise_id": "bw_pushup", "name": "Push-Up", "sets": 3, "reps_range": "8-12", "rest_seconds": 60, "equipment_used": ["bodyweight"], "source": "mcp_exercise_db"},
+          {"exercise_id": "db_row", "name": "Dumbbell Bent-Over Row", "sets": 3, "reps_range": "10-12", "rest_seconds": 60, "equipment_used": ["dumbbell"], "source": "mcp_exercise_db"},
+          {"exercise_id": "bw_plank", "name": "Plank", "sets": 3, "reps_range": "30-45s hold", "rest_seconds": 45, "equipment_used": ["bodyweight"], "source": "mcp_exercise_db"}
+        ]
+      },
+      {
+        "session_id": "day2",
+        "exercises": [
+          {"exercise_id": "db_romanian_deadlift", "name": "Dumbbell Romanian Deadlift", "sets": 3, "reps_range": "10-12", "rest_seconds": 60, "equipment_used": ["dumbbell"], "source": "mcp_exercise_db"},
+          {"exercise_id": "db_floor_press", "name": "Dumbbell Floor Press", "sets": 3, "reps_range": "10-12", "rest_seconds": 60, "equipment_used": ["dumbbell"], "source": "mcp_exercise_db"},
+          {"exercise_id": "bw_mountain_climber", "name": "Mountain Climber", "sets": 3, "reps_range": "20 total", "rest_seconds": 45, "equipment_used": ["bodyweight"], "source": "mcp_exercise_db"},
+          {"exercise_id": "db_lateral_raise", "name": "Dumbbell Lateral Raise", "sets": 2, "reps_range": "12-15", "rest_seconds": 45, "equipment_used": ["dumbbell"], "source": "mcp_exercise_db"}
+        ]
+      },
+      {
+        "session_id": "day3",
+        "exercises": [
+          {"exercise_id": "bw_split_squat", "name": "Bodyweight Split Squat", "sets": 3, "reps_range": "8-10 each leg", "rest_seconds": 60, "equipment_used": ["bodyweight"], "source": "mcp_exercise_db"},
+          {"exercise_id": "db_row", "name": "Dumbbell Bent-Over Row", "sets": 3, "reps_range": "10-12", "rest_seconds": 60, "equipment_used": ["dumbbell"], "source": "mcp_exercise_db"},
+          {"exercise_id": "bw_single_leg_glute_bridge", "name": "Single-Leg Glute Bridge", "sets": 3, "reps_range": "10-12 each leg", "rest_seconds": 45, "equipment_used": ["bodyweight"], "source": "mcp_exercise_db"},
+          {"exercise_id": "bw_plank", "name": "Plank", "sets": 3, "reps_range": "30-45s hold", "rest_seconds": 45, "equipment_used": ["bodyweight"], "source": "mcp_exercise_db"}
+        ]
+      }
+    ],
+    "equipment_used_overall": ["bodyweight", "dumbbell"],
+    "safety_notes": [
+      "No injuries were confirmed, but all exercises chosen are low technical-complexity, bodyweight-or-light-dumbbell movements appropriate for a true beginner.",
+      "Stop any set short of the rep target if form breaks down; form takes priority over hitting a number."
+    ]
+  }
+}
